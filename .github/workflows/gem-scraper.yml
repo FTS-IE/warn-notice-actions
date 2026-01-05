@@ -18,7 +18,7 @@ jobs:
       matrix:
         # TEST TIP: Use [ca, ny, ia] for your first run
         # state: [ny, ia]
-        state: [al, ak, az, ar, ca, co, ct, de, fl, ga, hi, id, il, in, ia, ks, ky, la, me, md, mi, mo, mt, ne, nj, nm, ny, oh, ok, or, pa, ri, sc, sd, tn, tx, ut, vt, va, wa, wi]
+        state: [al, ak, az, ca, co, ct, de, fl, ga, hi, id, il, in, ia, ks, me, md, mo, mt, ne, nj, nm, ny, ok, or, pa, ri, sc, sd, tn, tx, ut, vt, va, wa, wi]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -91,10 +91,11 @@ jobs:
                   if d_col:
                       df[d_col] = pd.to_datetime(df[d_col], errors='coerce')
                       all_dfs.append(df[df[d_col] >= threshold])
-              except: continue
+              except Exception as e:
+                  print(f"Skipping {f} due to error: {e}")
+                  continue
           if all_dfs:
               pd.concat(all_dfs).sort_values(by=d_col, ascending=False).to_csv("./data/recent_notices.csv", index=False)
-
 
       - name: Send Slack Alerts
         env:
@@ -173,7 +174,9 @@ jobs:
                           ]
                       }
                       requests.post(webhook_url, json=payload)
-              except continue
+              except Exception as e:
+                  print(f"Error alerting for {state_code}: {e}")
+                  continue
 
       - name: Update Index Page
         shell: python
