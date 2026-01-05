@@ -17,8 +17,8 @@ jobs:
       fail-fast: false
       matrix:
         # TEST TIP: Use [ca, ny, ia] for your first run
-        state: [ny, ia]
-        # state: [al, ak, az, ar, ca, co, ct, de, fl, ga, hi, id, il, in, ia, ks, ky, la, me, md, mi, mo, mt, ne, nj, nm, ny, oh, ok, or, pa, ri, sc, sd, tn, tx, ut, vt, va, wa, wi]
+        # state: [ny, ia]
+        state: [al, ak, az, ar, ca, co, ct, de, fl, ga, hi, id, il, in, ia, ks, ky, la, me, md, mi, mo, mt, ne, nj, nm, ny, oh, ok, or, pa, ri, sc, sd, tn, tx, ut, vt, va, wa, wi]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
