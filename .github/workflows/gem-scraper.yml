@@ -94,6 +94,14 @@ jobs:
           if all_dfs:
               pd.concat(all_dfs).sort_values(by=d_col, ascending=False).to_csv("./data/recent_notices.csv", index=False)
 
+      - name: Slack Connection Test
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          curl -X POST -H 'Content-type: application/json' \
+          --data '{"text":"✅ GitHub Action connected to Slack successfully!"}' \
+          $SLACK_WEBHOOK_URL
+
       - name: Send Slack Alerts
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
