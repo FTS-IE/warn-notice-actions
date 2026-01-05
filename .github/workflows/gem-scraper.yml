@@ -181,7 +181,9 @@ jobs:
       - name: Update Index Page
         shell: python
         run: |
-          import glob, os, datetime
+          import glob
+          import os
+          from datetime import datetime
 
           # Professional URL Map
           URL_MAP = {
