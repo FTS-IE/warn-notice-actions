@@ -1,0 +1,53 @@
+name: Daily WARN Scrape
+
+on:
+  schedule:
+    # 10:00 AM EST is 15:00 UTC. 
+    # (Note: If you are in Daylight Savings, this would be 14:00 UTC)
+    - cron: '0 15 * * *'
+  workflow_dispatch:
+    inputs:
+      test_run:
+        description: 'Run only test states (ca, ny)?'
+        required: true
+        default: 'false'
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+    
+    strategy:
+      fail-fast: false
+      matrix:
+        # TO TEST: Comment out the long list and just leave [ca, ny]
+        state: [ca, ny]
+        # state: [al, ak, az, ar, ca, co, ct, de, fl, ga, hi, id, il, in, ia, ks, ky, la, me, md, ma, mi, mn, ms, mo, mt, ne, nv, nh, nj, nm, ny, nc, nd, oh, ok, or, pa, ri, sc, sd, tn, tx, ut, vt, va, wa, wv, wi, wy]
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Scraper
+        run: pip install warn-scraper
+
+      - name: Run Scraper
+        run: |
+          mkdir -p data
+          python -m warn ${{ matrix.state }} --data-dir ./data/
+
+      - name: Commit and Push
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add data/
+          # This sequence handles potential conflicts if multiple matrix jobs push at once
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update ${{ matrix.state }} data" && git pull --rebase origin main && git push origin main)
