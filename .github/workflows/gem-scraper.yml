@@ -15,9 +15,9 @@ jobs:
     continue-on-error: true
     strategy:
       fail-fast: false
-      max-parallel: 20 # Limit parallelism to prevent GitHub from throttling
+      max-parallel: 15 # Speeds up execution by running more states at once
       matrix:
-        # TEST TIP: Use [ca, ny, ia] for your first run
+        # TESTING: Use [ca, ny, ia] for your first run
         # state: [ny, ia]
         state: [al, ak, az, ca, co, ct, de, fl, ga, hi, id, il, in, ia, ks, me, md, mo, mt, ne, nj, nm, ny, ok, or, pa, ri, sc, sd, tn, tx, ut, vt, va, wa, wi]
     steps:
@@ -76,196 +76,125 @@ jobs:
           cp data/*.csv old_data/ 2>/dev/null || true
           mv artifacts/**/*.csv data/
 
-      - name: Create Rolling 30-Day Window
-        shell: python
-        run: |
-          import pandas as pd
-          import glob
-          import os
-          from datetime import datetime, timedelta
-
-          threshold = datetime.now() - timedelta(days=30)
-          all_dfs = []
-          
-          for f in sorted(glob.glob("./data/*.csv")):
-              if "recent_notices.csv" in f: continue
-              try:
-                  df = pd.read_csv(f)
-                  
-                  # Find relevant columns
-                  d_col = next((c for c in df.columns if 'date' in c.lower()), None)
-                  c_col = next((c for c in df.columns if any(x in c.lower() for x in ['company', 'employer'])), None)
-                  
-                  if d_col:
-                      df[d_col] = pd.to_datetime(df[d_col], errors='coerce')
-                      # Filter 1: Date is within 30 days
-                      df = df[df[d_col] >= threshold]
-                      
-                  if c_col:
-                      # Filter 2: Company is not Unknown or empty
-                      df = df[df[c_col].notna()]
-                      df = df[~df[c_col].astype(str).str.lower().isin(['unknown', 'nan', 'n/a', ''])]
-                  
-                  all_dfs.append(df)
-              except Exception:
-                  continue
-                  
-          if all_dfs:
-              final_recent = pd.concat(all_dfs)
-              # Final sort so the newest stuff is always at the top
-              final_recent.sort_values(by=d_col, ascending=False, inplace=True)
-              final_recent.to_csv("./data/recent_notices.csv", index=False)
-
-      - name: Send Slack Alerts
+      - name: Create Standardized Data and Alerts
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
           SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
         shell: python
         run: |
           import pandas as pd
-          import requests
-          import os
           import glob
-          from datetime import datetime
+          import os
+          import requests
+          from datetime import datetime, timedelta
 
           token = os.environ.get('SLACK_BOT_TOKEN')
           channel_id = os.environ.get('SLACK_CHANNEL_ID')
-          if not token or not channel_id:
-              print("Slack credentials missing.")
-              exit(0)
-
-          # 1. First, collect all VALID new notices into a list
-          valid_notices = []
+          threshold = datetime.now() - timedelta(days=30)
           
-          for new_file in glob.glob("./data/*.csv"):
-              if "recent_notices.csv" in new_file: continue
-              state_code = os.path.basename(new_file).replace('.csv', '').upper()
-              old_file = new_file.replace('./data/', './old_data/')
+          def get_col(df, keywords):
+              for col in df.columns:
+                  if any(k in col.lower() for k in keywords):
+                      return col
+              return None
+
+          def standardize_df(df, state_code):
+              # 1. Map columns using keywords to handle different state headers
+              co_col = get_col(df, ['company name', 'employer', 'business legal', 'affected_company'])
+              if not co_col: co_col = get_col(df, ['company', 'name'])
               
+              city_col = get_col(df, ['city name', 'location name', 'site name'])
+              if not city_col: city_col = get_col(df, ['city', 'location', 'town'])
+              
+              notice_col = get_col(df, ['notice date', 'notice_date', 'date of notice', 'warn date', 'received date', 'received_date'])
+              if not notice_col: notice_col = get_col(df, ['date'])
+              
+              layoff_col = get_col(df, ['effective date', 'layoff date', 'layoff start', 'impact date', 'planned start'])
+              jobs_col = get_col(df, ['employees affected', 'number of employees', 'num_employees', 'jobs', 'total layoff', 'workers', 'impacted'])
+
+              # 2. Extract into standardized format
+              new_df = pd.DataFrame()
+              new_df['State'] = [state_code.upper()] * len(df)
+              new_df['Company'] = df[co_col].fillna("Unknown") if co_col else "Unknown"
+              new_df['City'] = df[city_col].fillna("Unknown") if city_col else "Unknown"
+              new_df['Notice Date'] = df[notice_col].fillna("N/A") if notice_col else "N/A"
+              new_df['Layoff Date'] = df[layoff_col].fillna("N/A") if layoff_col else "N/A"
+              new_df['Jobs Affected'] = df[jobs_col].fillna("N/A") if jobs_col else "N/A"
+              return new_df
+
+          all_standardized = []
+          new_for_slack = []
+
+          for f in sorted(glob.glob("./data/*.csv")):
+              if "recent_notices.csv" in f: continue
+              state = os.path.basename(f).split(".")[0].upper()
               try:
-                  df_new = pd.read_csv(new_file)
+                  df_new_raw = pd.read_csv(f)
+                  df_new = standardize_df(df_new_raw, state)
+                  all_standardized.append(df_new)
+                  
+                  # Compare with old data for Slack
+                  old_file = f.replace('./data/', './old_data/')
                   if os.path.exists(old_file):
-                      df_old = pd.read_csv(old_file)
-                      merged = df_new.merge(df_old, how='outer', indicator=True)
-                      new_records = merged[merged['_merge'] == 'left_only'].drop('_merge', axis=1)
+                      df_old_raw = pd.read_csv(old_file)
+                      df_old = standardize_df(df_old_raw, state)
+                      # Find only new rows
+                      new_merged = df_new.merge(df_old, how='outer', indicator=True)
+                      new_rows = new_merged[new_merged['_merge'] == 'left_only'].drop('_merge', axis=1)
                   else:
-                      new_records = df_new.head(1)
+                      new_rows = df_new.head(1)
 
-                  for _, row in new_records.iterrows():
-                      # --- FILTER 1: COMPANY GUARD ---
-                      co = next((str(row[c]) for c in df_new.columns if any(x in c.lower() for x in ['company', 'employer'])), "Unknown")
-                      if not co or co.lower() in ['unknown', 'nan', 'n/a', '', 'none']:
-                          continue
-                      
-                      # --- FILTER 2: 2026 YEAR GUARD ---
-                      date_val = next((row[c] for c in df_new.columns if 'notice' in c.lower() and 'date' in c.lower()), None)
-                      if not date_val:
-                          date_val = next((row[c] for c in df_new.columns if 'date' in c.lower()), "N/A")
-                      
+                  for _, row in new_rows.iterrows():
+                      # Company & 2026 Year Filter
+                      if str(row['Company']).lower() in ['unknown', 'nan', 'n/a', '', 'none']: continue
                       try:
-                          parsed_date = pd.to_datetime(date_val, errors='coerce')
-                          if parsed_date.year != 2026:
-                              continue # Skip anything not from 2026
-                      except:
-                          continue # Skip if date can't be read
+                          p_date = pd.to_datetime(row['Notice Date'], errors='coerce')
+                          if p_date.year != 2026: continue
+                      except: continue
+                      new_for_slack.append(row.to_dict())
+              except: continue
 
-                      # If it passed both filters, prepare the data
-                      jobs = next((str(row[c]) for c in df_new.columns if any(x in c.lower() for x in ['job', 'worker', 'affected', 'total'])), "N/A")
-                      valid_notices.append({
-                          "state": state_code,
-                          "company": co,
-                          "jobs": jobs,
-                          "date": date_val
-                      })
-              except:
-                  continue
+          # 1. Save standardized CSV (Rolling 30 days)
+          if all_standardized:
+              full_df = pd.concat(all_standardized)
+              full_df['Notice Date Parsed'] = pd.to_datetime(full_df['Notice Date'], errors='coerce')
+              recent_df = full_df[full_df['Notice Date Parsed'] >= threshold]
+              recent_df = recent_df.sort_values(by='Notice Date Parsed', ascending=False).drop(columns=['Notice Date Parsed'])
+              recent_df.to_csv("./data/recent_notices.csv", index=False)
 
-          # 2. Post the Parent Header with the count of valid notices
-          count = len(valid_notices)
-          header_text = f"*Daily WARN Report: {datetime.now().strftime('%Y-%m-%d')}*\nFound *{count}* new 2026 notices."
-          
-          resp = requests.post(
-              "https://slack.com/api/chat.postMessage",
-              headers={"Authorization": f"Bearer {token}"},
-              json={"channel": channel_id, "text": header_text}
-          ).json()
-          
-          thread_ts = resp.get("ts")
-
-          # 3. Post each valid notice into the thread
-          for n in valid_notices:
-              msg = f" *{n['state']}*: {n['company']} — {n['jobs']} jobs (Notice: {n['date']})"
-              requests.post(
-                  "https://slack.com/api/chat.postMessage",
-                  headers={"Authorization": f"Bearer {token}"},
-                  json={"channel": channel_id, "thread_ts": thread_ts, "text": msg}
-              )
+          # 2. Slack Threaded Alerts
+          if token and channel_id and new_for_slack:
+              header = f"*Daily WARN Report: {datetime.now().strftime('%Y-%m-%d')}*\nFound *{len(new_for_slack)}* new 2026 notices."
+              resp = requests.post("https://slack.com/api/chat.postMessage", headers={"Authorization": f"Bearer {token}"}, json={"channel": channel_id, "text": header}).json()
+              ts = resp.get("ts")
+              for n in new_for_slack:
+                  msg = f"*{n['State']}*: {n['Company']} — {n['Jobs Affected']} jobs (Notice: {n['Notice Date']}, Effective: {n['Layoff Date']})"
+                  requests.post("https://slack.com/api/chat.postMessage", headers={"Authorization": f"Bearer {token}"}, json={"channel": channel_id, "thread_ts": ts, "text": msg})
 
       - name: Update Index Page
         shell: python
         run: |
-          import glob
-          import os
-          from datetime import datetime
-
-          # Professional URL Map
-          URL_MAP = {
-              "NY": "https://dol.ny.gov/warn-dashboard",
-              "CA": "https://edd.ca.gov/en/Jobs_and_Training/Layoff_Services_WARN",
-              "IA": "https://workforce.iowa.gov/employers/resources/warn/notices",
-              "TX": "https://www.twc.texas.gov/data-reports/warn-notice",
-              "FL": "https://www.floridajobs.org/office-directory/division-of-workforce-services/workforce-programs/reemployment-and-emergency-assistance-coordination-team-react/warn-notices",
-              "PA": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/warn-requirements/warn-notices",
-              "NJ": "https://www.nj.gov/labor/business-services/layoffs-and-closing/file-warn-notice/",
-              "OH": "https://jfs.ohio.gov/job-services-and-unemployment/job-services/job-programs-and-services/submit-a-warn-notice/current-public-notices-of-layoffs-and-closures-sa/current-public-notices-of-layoffs-and-closures"
-          }
-
-          # Keep the professional intro and global timestamp
-          content = "# WARN Act Data Portal\n\n"
-          content += "Automated tracking of layoff notices across the U.S. Updated daily at 10:00 AM EST.\n\n"
-          content += "### Latest Global Update: " + datetime.now().strftime("%Y-%m-%d %H:%M") + " UTC\n\n"
-          
-          content += "| State | Data Download | Official Source |\n"
-          content += "| :--- | :--- | :--- |\n"
-          
-          # Include the combined 30-day file at the top of the table
+          import glob, os, datetime
+          content = "# WARN Act Data Portal\n\nAutomated tracking of layoff notices across the U.S. Updated daily at 10:00 AM EST.\n\n"
+          content += f"### Latest Global Update: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} UTC\n\n"
+          content += "| State | Data Download | Official Source |\n| :--- | :--- | :--- |\n"
           if os.path.exists("./data/recent_notices.csv"):
-              content += "| **All States** | [Download Combined 30-Day CSV](./data/recent_notices.csv) | - |\n"
-
-          # Dynamically add only the states that were successfully scraped
-          state_files = sorted(glob.glob("./data/*.csv"))
-          for f in state_files:
-              filename = os.path.basename(f)
-              if filename == "recent_notices.csv":
-                  continue
-              
-              state_code = filename.replace('.csv', '').upper()
-              source_url = URL_MAP.get(state_code, f"https://www.google.com/search?q={state_code}+official+WARN+notices")
-              
-              content += f"| {state_code} | [Download CSV](./data/{filename}) | [Official Source]({source_url}) |\n"
-
-          content += "\n\n---\n*This page is automatically updated by GitHub Actions. Data provided by Big Local News.*"
-
-          with open("README.md", "w") as f:
-              f.write(content)
-
-      - name: Save datestamp
-        run: date > ./data/latest-scrape.txt
+              content += "| **All States** | [Download Standardized 30-Day CSV](./data/recent_notices.csv) | - |\n"
+          for f in sorted(glob.glob("./data/*.csv")):
+              if "recent_notices.csv" in f: continue
+              st = os.path.basename(f).replace('.csv', '').upper()
+              content += f"| {st} | [Raw CSV](./data/{st.lower()}.csv) | [Official](https://www.google.com/search?q={st}+WARN+notices) |\n"
+          with open("README.md", "w") as f: f.write(content)
 
       - name: Commit and push
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@users.noreply.github.com"
-          
-          # Add all data files and the updated README
           git add ./data/ README.md
-          
-          # Only commit if there are actually changes to prevent "empty commit" errors
           if git diff --staged --quiet; then
-            echo "No changes detected. Skipping commit."
+            echo "No changes detected."
           else
-            git commit -m "Update WARN data and portal index [skip ci]"
-            # Use --rebase to handle potential sync issues if multiple jobs finish at once
+            git commit -m "Update standardized WARN data [skip ci]"
             git pull --rebase origin main
             git push origin main
           fi
