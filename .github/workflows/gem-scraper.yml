@@ -28,7 +28,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-          cache: 'pip' # Speeds up the run significantly
 
       - name: Install scraper
         run: pip install warn-scraper
@@ -59,7 +58,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-          cache: 'pip'
 
       - name: Install Dependencies
         run: pip install pandas requests
