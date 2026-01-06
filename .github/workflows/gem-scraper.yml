@@ -18,8 +18,8 @@ jobs:
       max-parallel: 15 # Speeds up execution by running more states at once
       matrix:
         # TESTING: Use [ca, ny, ia] for your first run
-        # state: [ny, ia]
-        state: [al, ak, az, ca, co, ct, de, fl, ga, hi, id, il, in, ia, ks, me, md, mo, mt, ne, nj, nm, ny, ok, or, pa, ri, sc, sd, tn, tx, ut, vt, va, wa, wi]
+        state: [ny]
+        # state: [al, ak, az, ca, co, ct, de, fl, ga, hi, id, il, in, ia, ks, me, md, mo, mt, ne, nj, nm, ny, ok, or, pa, ri, sc, sd, tn, tx, ut, vt, va, wa, wi]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
