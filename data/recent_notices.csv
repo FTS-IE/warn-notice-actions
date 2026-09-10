@@ -205,7 +205,7 @@ CA,Stockton Truss LLC,2026-08-18,65,Stockton Truss LLC2026-08-18
 WA,TT Commerce & Global Services,2026-08-18,N/A,TT Commerce & Global Services2026-08-18
 IA,Wells Fargo,2026-08-18,N/A,Wells Fargo2026-08-18
 CA,"Volume Services, Inc. (Sodexo)",2026-08-17,93,"Volume Services, Inc. (Sodexo)2026-08-17"
-AZ,"Pinnacle Transplant Technologies, LLC",2026-08-17,N/A,"Pinnacle Transplant Technologies, LLC2026-08-17"
+AZ,"Pinnacle Transplant Technologies, LLC",2026-08-17,90,"Pinnacle Transplant Technologies, LLC2026-08-17"
 VA,TekSynap Corporation,2026-08-17,9,TekSynap Corporation2026-08-17
 CA,LeeMAH Electronics,2026-08-17,205,LeeMAH Electronics2026-08-17
 CA,Roskam Baking Company dba Organic Milling,2026-08-17,115,Roskam Baking Company dba Organic Milling2026-08-17
@@ -664,7 +664,7 @@ PA,"Vestis Services, LLC",2026-06-15,5,"Vestis Services, LLC2026-06-15"
 NY,NeuLion USA LLC,2026-06-15,7,NeuLion USA LLC2026-06-15
 IA,"Plastic Products Co., Inc.",2026-06-15,N/A,"Plastic Products Co., Inc.2026-06-15"
 CA,United Natural Foods West,2026-06-15,11,United Natural Foods West2026-06-15
-AZ,Paragon Space Development Corporation,2026-06-12,N/A,Paragon Space Development Corporation2026-06-12
+AZ,Paragon Space Development Corporation,2026-06-12,77,Paragon Space Development Corporation2026-06-12
 CA,"Uber Technologies, Inc.",2026-06-12,3,"Uber Technologies, Inc.2026-06-12"
 MO,Unknown,2026-06-12,67,Unknown2026-06-12
 CA,Hy-Tek Intralogistics,2026-06-11,200,Hy-Tek Intralogistics2026-06-11
@@ -947,7 +947,7 @@ CA,"Meta Platforms, Inc.",2026-05-22,252,"Meta Platforms, Inc.2026-05-22"
 CA,"Meta Platforms, Inc.",2026-05-22,338,"Meta Platforms, Inc.2026-05-22"
 NE,WK Kellogg Co,2026-05-22,451,WK Kellogg Co2026-05-22
 WA,"Meta Platforms, Inc",2026-05-22,N/A,"Meta Platforms, Inc2026-05-22"
-AZ,"National Distribution Centers, LLC",2026-05-21,N/A,"National Distribution Centers, LLC2026-05-21"
+AZ,"National Distribution Centers, LLC",2026-05-21,90,"National Distribution Centers, LLC2026-05-21"
 WA,"Genie Industries, Inc. / Terex USA, LLC",2026-05-21,N/A,"Genie Industries, Inc. / Terex USA, LLC2026-05-21"
 NY,Rising Ground Inc.,2026-05-21,5,Rising Ground Inc.2026-05-21
 NY,Rising Ground Inc.,2026-05-21,24,Rising Ground Inc.2026-05-21
@@ -1403,7 +1403,7 @@ HOMESTEAD, FL, 330322026-04-17"
 CA,YMCA Arellanes Elementary School,2026-04-17,6,YMCA Arellanes Elementary School2026-04-17
 CA,"Best Formulations PC, LLC",2026-04-17,32,"Best Formulations PC, LLC2026-04-17"
 CA,"FM Restaurants HQ, LLC",2026-04-17,49,"FM Restaurants HQ, LLC2026-04-17"
-AZ,DLH Solutions,2026-04-17,N/A,DLH Solutions2026-04-17
+AZ,DLH Solutions,2026-04-17,312,DLH Solutions2026-04-17
 CA,YMCA Fesler Jr. High School,2026-04-17,3,YMCA Fesler Jr. High School2026-04-17
 CA,YMCA Fairlawn Elementary School,2026-04-17,6,YMCA Fairlawn Elementary School2026-04-17
 FL,"Iron Galaxy Studios, LLC 
@@ -1528,7 +1528,7 @@ CA,Qualcomm Incorporated (5745 Pacific Center Blvd.),2026-04-08,2,Qualcomm Incor
 CA,Qualcomm Incorporated (10160 Pacific Mesa Blvd.),2026-04-08,1,Qualcomm Incorporated (10160 Pacific Mesa Blvd.)2026-04-08
 CA,"Montessori West, Inc.",2026-04-08,35,"Montessori West, Inc.2026-04-08"
 IA,Ryder Systems Inc. ,2026-04-08,N/A,Ryder Systems Inc. 2026-04-08
-AZ,"Catholic Community Services of Southern Arizona, Inc.",2026-04-08,N/A,"Catholic Community Services of Southern Arizona, Inc.2026-04-08"
+AZ,"Catholic Community Services of Southern Arizona, Inc.",2026-04-08,74,"Catholic Community Services of Southern Arizona, Inc.2026-04-08"
 CA,Wellpath and CFMG - Placer Jail - Auburn,2026-04-07,50,Wellpath and CFMG - Placer Jail - Auburn2026-04-07
 CA,Prepa Tec Los Angeles campus,2026-04-07,42,Prepa Tec Los Angeles campus2026-04-07
 CA,Wellpath and CFMG - Placer Juvi Detention,2026-04-07,4,Wellpath and CFMG - Placer Juvi Detention2026-04-07
@@ -2028,7 +2028,7 @@ CA,Heritage Bank of Commerce (San Rafael),2026-02-27,3,Heritage Bank of Commerce
 CA,Heritage Bank of Commerce (Hollister),2026-02-27,1,Heritage Bank of Commerce (Hollister)2026-02-27
 CA,Heritage Bank of Commerce (San Francisco),2026-02-27,3,Heritage Bank of Commerce (San Francisco)2026-02-27
 IN,"First Brands Group, LLC",2026-02-27,345,"First Brands Group, LLC2026-02-27"
-KS,"First Brands Group, LLC (Horizon Global)",2026-02-27,64,"First Brands Group, LLC (Horizon Global)2026-02-27"
+KS,"First Brands Group, LLC (Horizon Global)",2026-02-27,N/A,"First Brands Group, LLC (Horizon Global)2026-02-27"
 CA,"Supernal, LLC. (117 Waterworks Way)",2026-02-27,58,"Supernal, LLC. (117 Waterworks Way)2026-02-27"
 CA,Heritage Bank of Commerce (Mateo),2026-02-27,5,Heritage Bank of Commerce (Mateo)2026-02-27
 CA,Heritage Bank of Commerce (San Jose),2026-02-27,85,Heritage Bank of Commerce (San Jose)2026-02-27
@@ -2623,7 +2623,7 @@ CA,Pinterest Inc. (CA Remote),2026-01-27,4,Pinterest Inc. (CA Remote)2026-01-27
 CA,Pinterest Inc. (Palo Alto),2026-01-27,16,Pinterest Inc. (Palo Alto)2026-01-27
 CA,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP",2026-01-27,45,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP2026-01-27"
 VA,Bear Express LLC,2026-01-27,168,Bear Express LLC2026-01-27
-AZ,Benchmark,2026-01-27,N/A,Benchmark2026-01-27
+AZ,Benchmark,2026-01-27,65,Benchmark2026-01-27
 CA,"Catholic Charities, Diocese of San Diego - MG Suite B",2026-01-27,11,"Catholic Charities, Diocese of San Diego - MG Suite B2026-01-27"
 CA,Thermo Fisher Scientific,2026-01-27,173,Thermo Fisher Scientific2026-01-27
 CA,"Catholic Charities, Diocese of San Diego - Pastoral Center",2026-01-27,6,"Catholic Charities, Diocese of San Diego - Pastoral Center2026-01-27"
