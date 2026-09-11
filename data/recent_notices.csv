@@ -205,7 +205,7 @@ CA,Stockton Truss LLC,2026-08-18,65,Stockton Truss LLC2026-08-18
 WA,TT Commerce & Global Services,2026-08-18,N/A,TT Commerce & Global Services2026-08-18
 IA,Wells Fargo,2026-08-18,N/A,Wells Fargo2026-08-18
 CA,"Volume Services, Inc. (Sodexo)",2026-08-17,93,"Volume Services, Inc. (Sodexo)2026-08-17"
-AZ,"Pinnacle Transplant Technologies, LLC",2026-08-17,90,"Pinnacle Transplant Technologies, LLC2026-08-17"
+AZ,"Pinnacle Transplant Technologies, LLC",2026-08-17,N/A,"Pinnacle Transplant Technologies, LLC2026-08-17"
 VA,TekSynap Corporation,2026-08-17,9,TekSynap Corporation2026-08-17
 CA,LeeMAH Electronics,2026-08-17,205,LeeMAH Electronics2026-08-17
 CA,Roskam Baking Company dba Organic Milling,2026-08-17,115,Roskam Baking Company dba Organic Milling2026-08-17
@@ -278,7 +278,7 @@ CA,Staples Fulfillment Center,2026-08-05,109,Staples Fulfillment Center2026-08-0
 WA,"Salesforce, Inc.",2026-08-05,N/A,"Salesforce, Inc.2026-08-05"
 WA,Google,2026-08-05,N/A,Google2026-08-05
 TN,Wellpath,2026-08-04,N/A,Wellpath2026-08-04
-AZ,Essendant,2026-08-04,53,Essendant2026-08-04
+AZ,Essendant,2026-08-04,N/A,Essendant2026-08-04
 AZ,Salad and Go,2026-08-04,25,Salad and Go2026-08-04
 WA,Zillow Group,2026-08-04,N/A,Zillow Group2026-08-04
 AL,FMC Corporation,2026-08-04,41,FMC Corporation2026-08-04
@@ -2028,7 +2028,7 @@ CA,Heritage Bank of Commerce (San Rafael),2026-02-27,3,Heritage Bank of Commerce
 CA,Heritage Bank of Commerce (Hollister),2026-02-27,1,Heritage Bank of Commerce (Hollister)2026-02-27
 CA,Heritage Bank of Commerce (San Francisco),2026-02-27,3,Heritage Bank of Commerce (San Francisco)2026-02-27
 IN,"First Brands Group, LLC",2026-02-27,345,"First Brands Group, LLC2026-02-27"
-KS,"First Brands Group, LLC (Horizon Global)",2026-02-27,N/A,"First Brands Group, LLC (Horizon Global)2026-02-27"
+KS,"First Brands Group, LLC (Horizon Global)",2026-02-27,64,"First Brands Group, LLC (Horizon Global)2026-02-27"
 CA,"Supernal, LLC. (117 Waterworks Way)",2026-02-27,58,"Supernal, LLC. (117 Waterworks Way)2026-02-27"
 CA,Heritage Bank of Commerce (Mateo),2026-02-27,5,Heritage Bank of Commerce (Mateo)2026-02-27
 CA,Heritage Bank of Commerce (San Jose),2026-02-27,85,Heritage Bank of Commerce (San Jose)2026-02-27
@@ -2534,7 +2534,7 @@ CA,Del Monte Foods Corporation II Inc - Modesto,2026-01-30,765,Del Monte Foods C
 CA,Del Monte Foods Corporation II Inc. - Hughson,2026-01-30,11,Del Monte Foods Corporation II Inc. - Hughson2026-01-30
 TN,Danfoss Power Solutions,2026-01-30,N/A,Danfoss Power Solutions2026-01-30
 CA,"Mercury Systems, Inc.",2026-01-30,18,"Mercury Systems, Inc.2026-01-30"
-AZ,Shell Recharge Solutions,2026-01-29,2,Shell Recharge Solutions2026-01-29
+AZ,Shell Recharge Solutions,2026-01-29,N/A,Shell Recharge Solutions2026-01-29
 OR,Kroger-00135,2026-01-29,N/A,Kroger-001352026-01-29
 CA,Amazon (SJC44),2026-01-29,49,Amazon (SJC44)2026-01-29
 CA,Amazon (SJC38),2026-01-29,141,Amazon (SJC38)2026-01-29
