@@ -729,7 +729,7 @@ CA,"Comedy Club Oxnard, LLC",2026-06-17,69,"Comedy Club Oxnard, LLC2026-06-17"
 IN,humano LLC,2026-06-17,586,humano LLC2026-06-17
 IN,"SIMOS Insourcing Solutions, LLC",2026-06-17,572,"SIMOS Insourcing Solutions, LLC2026-06-17"
 CA,"Cisco Systems, Inc.",2026-06-16,81,"Cisco Systems, Inc.2026-06-16"
-AZ,"Leona Arizona Employment Group, Inc.",2026-06-16,66,"Leona Arizona Employment Group, Inc.2026-06-16"
+AZ,"Leona Arizona Employment Group, Inc.",2026-06-16,N/A,"Leona Arizona Employment Group, Inc.2026-06-16"
 CA,"Cisco Systems, Inc.",2026-06-16,154,"Cisco Systems, Inc.2026-06-16"
 CA,"Cisco Systems, Inc.",2026-06-16,236,"Cisco Systems, Inc.2026-06-16"
 TN,Pilgrim's Pride Corporation,2026-06-16,N/A,Pilgrim's Pride Corporation2026-06-16
@@ -891,7 +891,7 @@ CA,Morgan Advance Ceramics Inc.,2026-06-05,96,Morgan Advance Ceramics Inc.2026-0
 MO,Unknown,2026-06-05,107,Unknown2026-06-05
 WA,SMBC Manubank,2026-06-04,N/A,SMBC Manubank2026-06-04
 IA,Whirlpool Corporation,2026-06-04,N/A,Whirlpool Corporation2026-06-04
-AZ,SMBC MANUBANK,2026-06-04,12,SMBC MANUBANK2026-06-04
+AZ,SMBC MANUBANK,2026-06-04,N/A,SMBC MANUBANK2026-06-04
 VA,SMBC Manubank,2026-06-04,6,SMBC Manubank2026-06-04
 CA,Highlands Community Charter and Technical Schools (901 Arden Way),2026-06-03,1,Highlands Community Charter and Technical Schools (901 Arden Way)2026-06-03
 CA,"Quizlet, Inc.",2026-06-03,79,"Quizlet, Inc.2026-06-03"
@@ -930,7 +930,7 @@ CA,"Off Duty Officers, Inc. (3477 E. Gage Ave.)",2026-06-02,2,"Off Duty Officers
 CA,"Off Duty Officers, Inc. (12855 Black Mountain Rd.)",2026-06-02,2,"Off Duty Officers, Inc. (12855 Black Mountain Rd.)2026-06-02"
 CA,"Off Duty Officers, Inc. (4873 Lone Tree Way)",2026-06-02,5,"Off Duty Officers, Inc. (4873 Lone Tree Way)2026-06-02"
 CA,"Off Duty Officers, Inc. (10615 Tierrasanta Blvd.)",2026-06-02,2,"Off Duty Officers, Inc. (10615 Tierrasanta Blvd.)2026-06-02"
-AZ,Federal Express Corporation,2026-06-02,101,Federal Express Corporation2026-06-02
+AZ,Federal Express Corporation,2026-06-02,N/A,Federal Express Corporation2026-06-02
 MO,Unknown,2026-06-02,6,Unknown2026-06-02
 ME,SP+ Parking,2026-06-02,100,SP+ Parking2026-06-02
 CA,"Off Duty Officers, Inc. (8725 Ariva Ct.)",2026-06-02,3,"Off Duty Officers, Inc. (8725 Ariva Ct.)2026-06-02"
@@ -988,7 +988,7 @@ MIAMI, FL, 331472026-05-29"
 CA,Centria Autism,2026-05-29,48,Centria Autism2026-05-29
 WA,Maverick Washington LLC Silver Dollar Mill Creek Casino,2026-05-29,N/A,Maverick Washington LLC Silver Dollar Mill Creek Casino2026-05-29
 CA,Acumen LLC & The SPHERE,2026-05-28,11,Acumen LLC & The SPHERE2026-05-28
-VT,Franklin Foods,2026-05-28,N/A,Franklin Foods2026-05-28
+VT,Franklin Foods,2026-05-28,99,Franklin Foods2026-05-28
 CA,Acumen LLC & The SPHERE,2026-05-28,58,Acumen LLC & The SPHERE2026-05-28
 NJ,IPIC Theaters,2026-05-28,97,IPIC Theaters2026-05-28
 NY,"IPIC Theaters, LLC.",2026-05-28,58,"IPIC Theaters, LLC.2026-05-28"
@@ -1255,7 +1255,7 @@ PA,"Post Consumer Brands, LLC",2026-05-01,11,"Post Consumer Brands, LLC2026-05-0
 WA,Maersk,2026-05-01,N/A,Maersk2026-05-01
 VA,Ideal US Talent Worker OpCo LLC,2026-05-01,776,Ideal US Talent Worker OpCo LLC2026-05-01
 VA,KBR Wyle Services LLC,2026-05-01,118,KBR Wyle Services LLC2026-05-01
-KS,First Student,2026-05-01,151,First Student2026-05-01
+KS,First Student,2026-05-01,N/A,First Student2026-05-01
 NJ,Walmart,2026-05-01,100,Walmart2026-05-01
 CA,First Student,2026-05-01,170,First Student2026-05-01
 CA,"CAT Restaurant Management, LLC",2026-05-01,57,"CAT Restaurant Management, LLC2026-05-01"
@@ -1333,7 +1333,7 @@ UT,Milestone Technologies Inc.,2026-04-29,50,Milestone Technologies Inc.2026-04-
 CA,"C&K Market, Inc.",2026-04-29,32,"C&K Market, Inc.2026-04-29"
 TN,Yanfeng International Automotive Technology US I LLC,2026-04-29,N/A,Yanfeng International Automotive Technology US I LLC2026-04-29
 CA,"Skyline Avatar House, LP",2026-04-29,49,"Skyline Avatar House, LP2026-04-29"
-AZ,Benchmark,2026-04-29,N/A,Benchmark2026-04-29
+AZ,Benchmark,2026-04-29,75,Benchmark2026-04-29
 VA,Milestone Technologies Inc,2026-04-29,50,Milestone Technologies Inc2026-04-29
 AZ,Northpoint Expeditionary Learning Academy,2026-04-29,21,Northpoint Expeditionary Learning Academy2026-04-29
 CA,Dudek,2026-04-29,36,Dudek2026-04-29
@@ -1494,7 +1494,7 @@ CA,"Best Formulations PC, LLC",2026-04-17,32,"Best Formulations PC, LLC2026-04-1
 CA,YMCA Taylor Elementary School,2026-04-17,10,YMCA Taylor Elementary School2026-04-17
 CA,YMCA Arellanes Elementary School,2026-04-17,6,YMCA Arellanes Elementary School2026-04-17
 CA,YMCA Bill Libbon Elementary School,2026-04-17,11,YMCA Bill Libbon Elementary School2026-04-17
-AZ,DLH Solutions,2026-04-17,312,DLH Solutions2026-04-17
+AZ,DLH Solutions,2026-04-17,N/A,DLH Solutions2026-04-17
 CA,YMCA Tommie Kunst Jr. High School,2026-04-17,3,YMCA Tommie Kunst Jr. High School2026-04-17
 CA,YMCA Roberto & Dr. Francisco Jimenez Elementary School,2026-04-17,12,YMCA Roberto & Dr. Francisco Jimenez Elementary School2026-04-17
 CA,YMCA Arellanes Junior High,2026-04-17,4,YMCA Arellanes Junior High2026-04-17
@@ -1517,13 +1517,13 @@ TN,Pave It Forward Logistics,2026-04-15,N/A,Pave It Forward Logistics2026-04-15
 CA,Snap Inc.,2026-04-15,73,Snap Inc.2026-04-15
 CA,Snap Inc.,2026-04-15,247,Snap Inc.2026-04-15
 CA,The Primary School,2026-04-15,147,The Primary School2026-04-15
-AZ,"Marsden Services, LLC",2026-04-15,85,"Marsden Services, LLC2026-04-15"
+AZ,"Marsden Services, LLC",2026-04-15,N/A,"Marsden Services, LLC2026-04-15"
 CA,Ventura Coastal,2026-04-14,69,Ventura Coastal2026-04-14
 IA,Appliance Plus Cellular Inc,2026-04-14,N/A,Appliance Plus Cellular Inc2026-04-14
 IA,Appliance Plus Cellular Inc,2026-04-14,N/A,Appliance Plus Cellular Inc2026-04-14
 IA,Appliance Plus Cellular Inc,2026-04-14,N/A,Appliance Plus Cellular Inc2026-04-14
 IA,Wells Fargo,2026-04-14,N/A,Wells Fargo2026-04-14
-AZ,"The Tendit Group, LLC.",2026-04-14,143,"The Tendit Group, LLC.2026-04-14"
+AZ,"The Tendit Group, LLC.",2026-04-14,N/A,"The Tendit Group, LLC.2026-04-14"
 IA,UnityPoint Health ,2026-04-14,N/A,UnityPoint Health 2026-04-14
 IA,UnityPoint Health ,2026-04-14,N/A,UnityPoint Health 2026-04-14
 IA,UnityPoint Health ,2026-04-14,N/A,UnityPoint Health 2026-04-14
@@ -1680,7 +1680,7 @@ CA,Union of Pan Asian Communities - Positive Solutions and Elder Multicultural A
 IN,"Oakland City University, Inc",2026-04-01,167,"Oakland City University, Inc2026-04-01"
 CA,Consolidated Entertainment LLC (Reading Cinemas,2026-04-01,63,Consolidated Entertainment LLC (Reading Cinemas2026-04-01
 CA,Victoria Nursery,2026-04-01,62,Victoria Nursery2026-04-01
-AZ,"Aramark Campus, LLC",2026-04-01,N/A,"Aramark Campus, LLC2026-04-01"
+AZ,"Aramark Campus, LLC",2026-04-01,108,"Aramark Campus, LLC2026-04-01"
 CA,Think Together,2026-04-01,114,Think Together2026-04-01
 MO,Unknown,2026-04-01,48,Unknown2026-04-01
 CA,"Oracle America, Inc.",2026-04-01,184,"Oracle America, Inc.2026-04-01"
@@ -1735,7 +1735,7 @@ CA,John Adams Academy - El Dorado,2026-03-30,6,John Adams Academy - El Dorado202
 CA,F10 Oceanside LLC,2026-03-30,58,F10 Oceanside LLC2026-03-30
 CA,John Adams Academy,2026-03-30,13,John Adams Academy2026-03-30
 CA,John Adams academy,2026-03-30,49,John Adams academy2026-03-30
-KS,Ashley Clinic/Southeast Kansas Mental Health Center,2026-03-27,116,Ashley Clinic/Southeast Kansas Mental Health Center2026-03-27
+KS,Ashley Clinic/Southeast Kansas Mental Health Center,2026-03-27,N/A,Ashley Clinic/Southeast Kansas Mental Health Center2026-03-27
 CA,Crittenton (100 E. Valley View),2026-03-27,81,Crittenton (100 E. Valley View)2026-03-27
 CA,Crittenton (600 N. Harbor Blvd),2026-03-27,26,Crittenton (600 N. Harbor Blvd)2026-03-27
 WA,Starbucks,2026-03-27,N/A,Starbucks2026-03-27
@@ -2099,7 +2099,7 @@ CA,Heritage Bank of Commerce (Oakland),2026-02-27,1,Heritage Bank of Commerce (O
 CA,Heritage Bank of Commerce (Livermore),2026-02-27,1,Heritage Bank of Commerce (Livermore)2026-02-27
 CA,Heritage Bank of Commerce (San Francisco),2026-02-27,3,Heritage Bank of Commerce (San Francisco)2026-02-27
 PA,"GIANT Company, LLC",2026-02-27,76,"GIANT Company, LLC2026-02-27"
-KS,"First Brands Group, LLC (Horizon Global)",2026-02-27,64,"First Brands Group, LLC (Horizon Global)2026-02-27"
+KS,"First Brands Group, LLC (Horizon Global)",2026-02-27,N/A,"First Brands Group, LLC (Horizon Global)2026-02-27"
 CA,Heritage Bank of Commerce (Mateo),2026-02-27,5,Heritage Bank of Commerce (Mateo)2026-02-27
 CA,Heritage Bank of Commerce (San Jose),2026-02-27,85,Heritage Bank of Commerce (San Jose)2026-02-27
 CA,Heritage Bank of Commerce (Remote-San Jose),2026-02-27,12,Heritage Bank of Commerce (Remote-San Jose)2026-02-27
@@ -2607,7 +2607,7 @@ WA,Amazon,2026-01-30,N/A,Amazon2026-01-30
 WA,International Paper Company,2026-01-30,N/A,International Paper Company2026-01-30
 KS,"Vornado Air, LLC.",2026-01-30,N/A,"Vornado Air, LLC.2026-01-30"
 VT,Maple Ridge Memory Care and Lodge,2026-01-30,126,Maple Ridge Memory Care and Lodge2026-01-30
-AZ,Shell Recharge Solutions,2026-01-29,N/A,Shell Recharge Solutions2026-01-29
+AZ,Shell Recharge Solutions,2026-01-29,2,Shell Recharge Solutions2026-01-29
 OR,Kroger-00153,2026-01-29,N/A,Kroger-001532026-01-29
 OR,Eugene Location,2026-01-29,N/A,Eugene Location2026-01-29
 OR,"Three Pirates, LLC dba Point Blank Dist",2026-01-29,N/A,"Three Pirates, LLC dba Point Blank Dist2026-01-29"
@@ -2712,7 +2712,7 @@ TN,"NIKE Retail Services, Inc.",2026-01-27,N/A,"NIKE Retail Services, Inc.2026-0
 CA,"Western Digital Technologies, Inc.",2026-01-27,47,"Western Digital Technologies, Inc.2026-01-27"
 CA,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP",2026-01-27,45,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP2026-01-27"
 IA,American Contract Systems ,2026-01-27,N/A,American Contract Systems 2026-01-27
-AZ,Benchmark,2026-01-27,N/A,Benchmark2026-01-27
+AZ,Benchmark,2026-01-27,65,Benchmark2026-01-27
 CA,Pinterest Inc. (CA Remote),2026-01-27,4,Pinterest Inc. (CA Remote)2026-01-27
 CA,BEN Group. Inc (BENlabs),2026-01-26,75,BEN Group. Inc (BENlabs)2026-01-26
 CA,Google (MPD237),2026-01-26,19,Google (MPD237)2026-01-26
@@ -2851,7 +2851,7 @@ Ponte Vedra
 PONTE VEDRA BEACH, FL, 320822026-01-08"
 OR,Oregon - Remote Employees,2026-01-08,N/A,Oregon - Remote Employees2026-01-08
 UT,SMBC Manubank,2026-01-08,1,SMBC Manubank2026-01-08
-AZ,SMBC Group - JeniusBank,2026-01-08,N/A,SMBC Group - JeniusBank2026-01-08
+AZ,SMBC Group - JeniusBank,2026-01-08,33,SMBC Group - JeniusBank2026-01-08
 FL,"SMBC MANUBANK 
 Jacksonville
 515 South Figueroa Street Los Angeles, CA 90071
@@ -2928,8 +2928,8 @@ Fort Myers
 FORT MYERS, FL, 339012026-01-08"
 CA,Pomona Hospital Medical Center (1798),2026-01-07,108,Pomona Hospital Medical Center (1798)2026-01-07
 CA,Pomona Hospital Medical Center (300),2026-01-07,4,Pomona Hospital Medical Center (300)2026-01-07
-AZ,GNC Distribution Center,2026-01-07,N/A,GNC Distribution Center2026-01-07
-AZ,Avelo Airlines,2026-01-07,N/A,Avelo Airlines2026-01-07
+AZ,GNC Distribution Center,2026-01-07,66,GNC Distribution Center2026-01-07
+AZ,Avelo Airlines,2026-01-07,97,Avelo Airlines2026-01-07
 CA,Pomona Hospital Medical Center (1601),2026-01-07,1,Pomona Hospital Medical Center (1601)2026-01-07
 CO,Alan Ritchey,2026-01-06,729,Alan Ritchey2026-01-06
 CO,Tessera Therapeutics,2026-01-06,1,Tessera Therapeutics2026-01-06
