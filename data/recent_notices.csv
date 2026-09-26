@@ -127,7 +127,7 @@ WA,Legendary Fruit Co,2026-09-10,N/A,Legendary Fruit Co2026-09-10
 NY,"Piedmont Airlines, Inc.",2026-09-10,88,"Piedmont Airlines, Inc.2026-09-10"
 VA,United Air Temp Air Conditioning and Heating LLC,2026-09-10,96,United Air Temp Air Conditioning and Heating LLC2026-09-10
 CA,"Fuji Food Products, Inc.",2026-09-10,35,"Fuji Food Products, Inc.2026-09-10"
-ME,Count & Crush LLC,2026-09-09,54,Count & Crush LLC2026-09-09
+ME,Count & Crush LLC,2026-09-09,N/A,Count & Crush LLC2026-09-09
 CA,University of Southern California (4676 Admiralty Way),2026-09-09,15,University of Southern California (4676 Admiralty Way)2026-09-09
 CA,Sapporo U.S.A. (1999 Citracado Parkway),2026-09-09,200,Sapporo U.S.A. (1999 Citracado Parkway)2026-09-09
 CA,University of Southern California (941 Bloom Walk),2026-09-09,4,University of Southern California (941 Bloom Walk)2026-09-09
@@ -367,7 +367,7 @@ OR,JeniusBank,2026-08-10,N/A,JeniusBank2026-08-10
 NY,"OceanFirst Bank, N.A.",2026-08-10,174,"OceanFirst Bank, N.A.2026-08-10"
 OR,Oregon - Remote Employees,2026-08-10,N/A,Oregon - Remote Employees2026-08-10
 MO,Unknown,2026-08-10,119,Unknown2026-08-10
-DE,JeniusBank,2026-08-10,106,JeniusBank2026-08-10
+DE,JeniusBank,2026-08-10,N/A,JeniusBank2026-08-10
 VA,Eurofins Professional Scientific Services LLC,2026-08-10,68,Eurofins Professional Scientific Services LLC2026-08-10
 PA,"WILX Logistics, LLC",2026-08-09,70,"WILX Logistics, LLC2026-08-09"
 NJ,Verizon Corp Resources Group LLC,2026-08-07,156,Verizon Corp Resources Group LLC2026-08-07
@@ -750,10 +750,10 @@ TN,JBS USA Food Company,2026-06-17,N/A,JBS USA Food Company2026-06-17
 IN,humano LLC,2026-06-17,586,humano LLC2026-06-17
 CA,Lumileds LLC,2026-06-17,11,Lumileds LLC2026-06-17
 WA,"First Student, Inc.",2026-06-17,N/A,"First Student, Inc.2026-06-17"
-VT,"St. Albans Creamery, LLC",2026-06-17,N/A,"St. Albans Creamery, LLC2026-06-17"
+VT,"St. Albans Creamery, LLC",2026-06-17,81,"St. Albans Creamery, LLC2026-06-17"
 CA,"Comedy Club Oxnard, LLC",2026-06-17,69,"Comedy Club Oxnard, LLC2026-06-17"
 CA,"Cisco Systems, Inc.",2026-06-16,236,"Cisco Systems, Inc.2026-06-16"
-AZ,"Leona Arizona Employment Group, Inc.",2026-06-16,N/A,"Leona Arizona Employment Group, Inc.2026-06-16"
+AZ,"Leona Arizona Employment Group, Inc.",2026-06-16,66,"Leona Arizona Employment Group, Inc.2026-06-16"
 CA,"Robinhood Markets, Inc.",2026-06-16,63,"Robinhood Markets, Inc.2026-06-16"
 TN,Pilgrim's Pride Corporation,2026-06-16,N/A,Pilgrim's Pride Corporation2026-06-16
 CA,"Cisco Systems, Inc.",2026-06-16,81,"Cisco Systems, Inc.2026-06-16"
@@ -767,7 +767,7 @@ VA,Vestis Services LLC,2026-06-15,19,Vestis Services LLC2026-06-15
 PA,"Vestis Services, LLC",2026-06-15,5,"Vestis Services, LLC2026-06-15"
 CA,United Natural Foods West,2026-06-15,11,United Natural Foods West2026-06-15
 IA,"Plastic Products Co., Inc.",2026-06-15,N/A,"Plastic Products Co., Inc.2026-06-15"
-AZ,Paragon Space Development Corporation,2026-06-12,N/A,Paragon Space Development Corporation2026-06-12
+AZ,Paragon Space Development Corporation,2026-06-12,77,Paragon Space Development Corporation2026-06-12
 CA,"Uber Technologies, Inc.",2026-06-12,3,"Uber Technologies, Inc.2026-06-12"
 MO,Unknown,2026-06-12,67,Unknown2026-06-12
 AL,Legacy Cabinets,2026-06-11,397,Legacy Cabinets2026-06-11
@@ -785,7 +785,7 @@ CA,"ServiceNow, Inc.",2026-06-10,54,"ServiceNow, Inc.2026-06-10"
 CA,Ubisoft,2026-06-10,93,Ubisoft2026-06-10
 CA,"ServiceNow, Inc.",2026-06-10,63,"ServiceNow, Inc.2026-06-10"
 IA,Iowa Department of Management,2026-06-09,N/A,Iowa Department of Management2026-06-09
-VT,University of Vermont Health,2026-06-09,N/A,University of Vermont Health2026-06-09
+VT,University of Vermont Health,2026-06-09,142,University of Vermont Health2026-06-09
 VA,General Dynamics Information Technology ,2026-06-09,174,General Dynamics Information Technology 2026-06-09
 HI,Ben Bridge (Pearlridge Store),2026-06-09,N/A,Ben Bridge (Pearlridge Store)2026-06-09
 WA,"Expeditors International of Washington, Inc.",2026-06-08,N/A,"Expeditors International of Washington, Inc.2026-06-08"
@@ -914,7 +914,7 @@ CA,Blue Diamond Growers,2026-06-05,40,Blue Diamond Growers2026-06-05
 CA,Morgan Advance Ceramics Inc.,2026-06-05,96,Morgan Advance Ceramics Inc.2026-06-05
 MO,Unknown,2026-06-05,107,Unknown2026-06-05
 IA,Whirlpool Corporation,2026-06-04,N/A,Whirlpool Corporation2026-06-04
-AZ,SMBC MANUBANK,2026-06-04,N/A,SMBC MANUBANK2026-06-04
+AZ,SMBC MANUBANK,2026-06-04,12,SMBC MANUBANK2026-06-04
 WA,SMBC Manubank,2026-06-04,N/A,SMBC Manubank2026-06-04
 VA,SMBC Manubank,2026-06-04,6,SMBC Manubank2026-06-04
 CA,Highlands Community Charter and Technical Schools (5655 Hillsdale Blvd),2026-06-03,5,Highlands Community Charter and Technical Schools (5655 Hillsdale Blvd)2026-06-03
@@ -953,7 +953,7 @@ CA,"Off Duty Officers, Inc. (1081-1139 South Mission Rd.)",2026-06-02,2,"Off Dut
 CA,"Off Duty Officers, Inc. (12855 Black Mountain Rd.)",2026-06-02,2,"Off Duty Officers, Inc. (12855 Black Mountain Rd.)2026-06-02"
 CA,"Off Duty Officers, Inc. (13533 Seal Beach Blvd.)",2026-06-02,8,"Off Duty Officers, Inc. (13533 Seal Beach Blvd.)2026-06-02"
 CA,"Off Duty Officers, Inc. (3477 E. Gage Ave.)",2026-06-02,2,"Off Duty Officers, Inc. (3477 E. Gage Ave.)2026-06-02"
-ME,SP+ Parking,2026-06-02,100,SP+ Parking2026-06-02
+ME,SP+ Parking,2026-06-02,N/A,SP+ Parking2026-06-02
 CA,"Off Duty Officers, Inc. (375 M St.)",2026-06-02,1,"Off Duty Officers, Inc. (375 M St.)2026-06-02"
 CA,"Off Duty Officers, Inc. (4873 Lone Tree Way)",2026-06-02,5,"Off Duty Officers, Inc. (4873 Lone Tree Way)2026-06-02"
 IN,Noble Inc,2026-06-02,85,Noble Inc2026-06-02
@@ -1020,7 +1020,7 @@ NY,Morgan Stanley,2026-05-27,1,Morgan Stanley2026-05-27
 NY,Morgan Stanley,2026-05-27,2,Morgan Stanley2026-05-27
 NY,Morgan Stanley,2026-05-27,82,Morgan Stanley2026-05-27
 CA,"Trifecta JLS, Inc./Plank",2026-05-27,70,"Trifecta JLS, Inc./Plank2026-05-27"
-AZ,Honeywell AZ0Y,2026-05-27,N/A,Honeywell AZ0Y2026-05-27
+AZ,Honeywell AZ0Y,2026-05-27,60,Honeywell AZ0Y2026-05-27
 NY,Morgan Stanley,2026-05-27,7,Morgan Stanley2026-05-27
 NY,Morgan Stanley,2026-05-27,1,Morgan Stanley2026-05-27
 NY,Morgan Stanley,2026-05-27,120,Morgan Stanley2026-05-27
@@ -1508,7 +1508,7 @@ ORLANDO, FL, 32801",2026-04-17,50,"Iron Galaxy Studios, LLC
 
 ORLANDO, FL, 328012026-04-17"
 SC,Milliken (Cedar Hill Plant),2026-04-17,126,Milliken (Cedar Hill Plant)2026-04-17
-AZ,DLH Solutions,2026-04-17,N/A,DLH Solutions2026-04-17
+AZ,DLH Solutions,2026-04-17,312,DLH Solutions2026-04-17
 CA,YMCA Oakley Elementary School,2026-04-17,9,YMCA Oakley Elementary School2026-04-17
 CA,YMCA Santa Maria Valley,2026-04-17,7,YMCA Santa Maria Valley2026-04-17
 CA,"FM Restaurants HQ, LLC",2026-04-17,49,"FM Restaurants HQ, LLC2026-04-17"
@@ -1538,7 +1538,7 @@ TN,"T-Mobile USA, Inc.",2026-04-16,N/A,"T-Mobile USA, Inc.2026-04-16"
 AL,Serta Mattress Company,2026-04-15,102,Serta Mattress Company2026-04-15
 CA,The Primary School,2026-04-15,147,The Primary School2026-04-15
 TN,Pave It Forward Logistics,2026-04-15,N/A,Pave It Forward Logistics2026-04-15
-AZ,"Marsden Services, LLC",2026-04-15,N/A,"Marsden Services, LLC2026-04-15"
+AZ,"Marsden Services, LLC",2026-04-15,85,"Marsden Services, LLC2026-04-15"
 CA,Snap Inc.,2026-04-15,73,Snap Inc.2026-04-15
 WA,Snap Inc.,2026-04-15,N/A,Snap Inc.2026-04-15
 CA,Snap Inc.,2026-04-15,247,Snap Inc.2026-04-15
@@ -1573,7 +1573,7 @@ VA,Central Garden &amp; Pet,2026-04-14,94,Central Garden &amp; Pet2026-04-14
 MO,Unknown,2026-04-14,25,Unknown2026-04-14
 IN,RESRG Automotive,2026-04-14,266,RESRG Automotive2026-04-14
 CT,"Main Street Sports Group, LLC",2026-04-14,N/A,"Main Street Sports Group, LLC2026-04-14"
-AZ,"The Tendit Group, LLC.",2026-04-14,N/A,"The Tendit Group, LLC.2026-04-14"
+AZ,"The Tendit Group, LLC.",2026-04-14,143,"The Tendit Group, LLC.2026-04-14"
 FL,"Ari Ben Aviator Inc 
 4220 Aviator Way
 
@@ -2101,7 +2101,7 @@ MIAMI SHORES, FL, 33138",2026-02-27,68,"Professional Course Management II LTD
 
 MIAMI SHORES, FL, 331382026-02-27"
 CA,Heritage Bank of Commerce (Morgan Hill),2026-02-27,1,Heritage Bank of Commerce (Morgan Hill)2026-02-27
-KS,"First Brands Group, LLC (Horizon Global)",2026-02-27,N/A,"First Brands Group, LLC (Horizon Global)2026-02-27"
+KS,"First Brands Group, LLC (Horizon Global)",2026-02-27,64,"First Brands Group, LLC (Horizon Global)2026-02-27"
 CA,Heritage Bank of Commerce (San Jose),2026-02-27,85,Heritage Bank of Commerce (San Jose)2026-02-27
 CA,Heritage Bank of Commerce (Los Altos),2026-02-27,1,Heritage Bank of Commerce (Los Altos)2026-02-27
 CA,Heritage Bank of Commerce (Remote-San Jose),2026-02-27,12,Heritage Bank of Commerce (Remote-San Jose)2026-02-27
@@ -2293,7 +2293,7 @@ CA,Topanga Social Manager. LLC - Topanga Social Food Hall,2026-02-13,131,Topanga
 CA,De La Pena Eye Clinic - DLP Long Beach,2026-02-13,3,De La Pena Eye Clinic - DLP Long Beach2026-02-13
 CA,De La Pena Eye Clinic - DLP Los Angeles,2026-02-13,12,De La Pena Eye Clinic - DLP Los Angeles2026-02-13
 CA,De La Pena Eye Clinic - DLP Van Nuys,2026-02-13,19,De La Pena Eye Clinic - DLP Van Nuys2026-02-13
-KS,Lowe's,2026-02-13,N/A,Lowe's2026-02-13
+KS,Lowe's,2026-02-13,3,Lowe's2026-02-13
 CA,Commute is Great Logistics LLC,2026-02-13,132,Commute is Great Logistics LLC2026-02-13
 FL,"Main Street Sports Group, LLC 
 7622 Bald Cypress Place
@@ -2630,7 +2630,7 @@ CA,Del Monte Foods Corporation II Inc - Modesto,2026-01-30,765,Del Monte Foods C
 CA,City National Bank,2026-01-30,9,City National Bank2026-01-30
 WA,Amazon,2026-01-30,N/A,Amazon2026-01-30
 WA,International Paper Company,2026-01-30,N/A,International Paper Company2026-01-30
-KS,"Vornado Air, LLC.",2026-01-30,N/A,"Vornado Air, LLC.2026-01-30"
+KS,"Vornado Air, LLC.",2026-01-30,72,"Vornado Air, LLC.2026-01-30"
 CA,Amazon (SJC25),2026-01-29,43,Amazon (SJC25)2026-01-29
 CA,Amazon - SNA 20,2026-01-29,25,Amazon - SNA 202026-01-29
 CA,"Chan Zuckerberg Initiative, LLC - Remote",2026-01-29,32,"Chan Zuckerberg Initiative, LLC - Remote2026-01-29"
@@ -2736,7 +2736,7 @@ CA,"Catholic Charities, Diocese of San Diego - MG Suite B",2026-01-27,11,"Cathol
 CA,"Schultz Industrial Services, Inc.",2026-01-27,66,"Schultz Industrial Services, Inc.2026-01-27"
 CA,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter",2026-01-27,7,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter2026-01-27"
 CA,JBT Marel Corporation,2026-01-27,59,JBT Marel Corporation2026-01-27
-ME,Gathr Outdoors dba Pride Manufacturing Co LLC,2026-01-27,6,Gathr Outdoors dba Pride Manufacturing Co LLC2026-01-27
+ME,Gathr Outdoors dba Pride Manufacturing Co LLC,2026-01-27,N/A,Gathr Outdoors dba Pride Manufacturing Co LLC2026-01-27
 CA,"Catholic Charities, Diocese of San Diego - Pastoral Center",2026-01-27,6,"Catholic Charities, Diocese of San Diego - Pastoral Center2026-01-27"
 NJ,Amazon,2026-01-26,72,Amazon2026-01-26
 CA,Google (HMBLT3),2026-01-26,1,Google (HMBLT3)2026-01-26
@@ -2946,11 +2946,11 @@ FORT MYERS, FL, 33901",2026-01-08,1,"SMBC MANUBANK
 Fort Myers
 515 South Figueroa Street Los Angeles, CA 90071
 FORT MYERS, FL, 339012026-01-08"
-AZ,SMBC Group - JeniusBank,2026-01-08,33,SMBC Group - JeniusBank2026-01-08
+AZ,SMBC Group - JeniusBank,2026-01-08,N/A,SMBC Group - JeniusBank2026-01-08
 OR,Oregon - Remote Employees,2026-01-08,N/A,Oregon - Remote Employees2026-01-08
 HI,DFS Group L.P.,2026-01-08,N/A,DFS Group L.P.2026-01-08
 VA,SMBC Manubank,2026-01-08,6,SMBC Manubank2026-01-08
-AZ,GNC Distribution Center,2026-01-07,66,GNC Distribution Center2026-01-07
+AZ,GNC Distribution Center,2026-01-07,N/A,GNC Distribution Center2026-01-07
 CA,Pomona Hospital Medical Center (1798),2026-01-07,108,Pomona Hospital Medical Center (1798)2026-01-07
 AZ,Avelo Airlines,2026-01-07,97,Avelo Airlines2026-01-07
 CA,Pomona Hospital Medical Center (300),2026-01-07,4,Pomona Hospital Medical Center (300)2026-01-07
