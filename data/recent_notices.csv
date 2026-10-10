@@ -221,7 +221,7 @@ VT,University of Vermont Health,2026-09-15,179,University of Vermont Health2026-
 VA,Bechtel Power Corporation ,2026-09-15,200,Bechtel Power Corporation 2026-09-15
 IA,Wells Fargo,2026-09-15,N/A,Wells Fargo2026-09-15
 NJ,AT&T,2026-09-15,138,AT&T2026-09-15
-AZ,Farmers Investment Co.,2026-09-15,N/A,Farmers Investment Co.2026-09-15
+AZ,Farmers Investment Co.,2026-09-15,10,Farmers Investment Co.2026-09-15
 CA,Quixote Studio Services - Sylmar South,2026-09-15,3,Quixote Studio Services - Sylmar South2026-09-15
 CA,Quixote Studio Services - North Valley,2026-09-15,29,Quixote Studio Services - North Valley2026-09-15
 CA,Quixote Studio Services - North Valley Campus A,2026-09-15,24,Quixote Studio Services - North Valley Campus A2026-09-15
@@ -477,7 +477,7 @@ VA,SMBC Manubank,2026-08-10,5,SMBC Manubank2026-08-10
 OR,Oregon - Remote Employees,2026-08-10,N/A,Oregon - Remote Employees2026-08-10
 OR,JeniusBank,2026-08-10,N/A,JeniusBank2026-08-10
 SD,JeniusBank (digital unit of SMBC Manubank),2026-08-10,2,JeniusBank (digital unit of SMBC Manubank)2026-08-10
-DE,JeniusBank,2026-08-10,N/A,JeniusBank2026-08-10
+DE,JeniusBank,2026-08-10,106,JeniusBank2026-08-10
 NY,"OceanFirst Bank, N.A.",2026-08-10,174,"OceanFirst Bank, N.A.2026-08-10"
 MO,Unknown,2026-08-10,119,Unknown2026-08-10
 PA,"WILX Logistics, LLC",2026-08-09,70,"WILX Logistics, LLC2026-08-09"
@@ -712,7 +712,7 @@ PA,Durham School Services,2026-06-29,299,Durham School Services2026-06-29
 WA,PetVet Care Centers,2026-06-29,N/A,PetVet Care Centers2026-06-29
 WA,"Conduent Commercial Solutions, LLC",2026-06-29,N/A,"Conduent Commercial Solutions, LLC2026-06-29"
 SD,Conduent,2026-06-29,1,Conduent2026-06-29
-AZ,"Conduent Commercial Solutions, LLC",2026-06-29,3,"Conduent Commercial Solutions, LLC2026-06-29"
+AZ,"Conduent Commercial Solutions, LLC",2026-06-29,N/A,"Conduent Commercial Solutions, LLC2026-06-29"
 SC,Univar Solutions USA LLC,2026-06-28,99,Univar Solutions USA LLC2026-06-28
 NJ,"Citibank, N.A.",2026-06-28,68,"Citibank, N.A.2026-06-28"
 CA,Conduent,2026-06-26,51,Conduent2026-06-26
@@ -868,7 +868,7 @@ TN,YesCare Corp.,2026-06-17,N/A,YesCare Corp.2026-06-17
 CA,"Cisco Systems, Inc.",2026-06-16,154,"Cisco Systems, Inc.2026-06-16"
 CA,"Robinhood Markets, Inc.",2026-06-16,63,"Robinhood Markets, Inc.2026-06-16"
 CA,"Cisco Systems, Inc.",2026-06-16,236,"Cisco Systems, Inc.2026-06-16"
-AZ,"Leona Arizona Employment Group, Inc.",2026-06-16,66,"Leona Arizona Employment Group, Inc.2026-06-16"
+AZ,"Leona Arizona Employment Group, Inc.",2026-06-16,N/A,"Leona Arizona Employment Group, Inc.2026-06-16"
 TN,Pilgrim's Pride Corporation,2026-06-16,N/A,Pilgrim's Pride Corporation2026-06-16
 CA,"Cisco Systems, Inc.",2026-06-16,81,"Cisco Systems, Inc.2026-06-16"
 NY,NeuLion USA LLC,2026-06-15,7,NeuLion USA LLC2026-06-15
@@ -1068,7 +1068,7 @@ CA,"Off Duty Officers, Inc. (10615 Tierrasanta Blvd.)",2026-06-02,2,"Off Duty Of
 CA,"Dwyer Instruments, LLC",2026-06-02,53,"Dwyer Instruments, LLC2026-06-02"
 AZ,Federal Express Corporation,2026-06-02,101,Federal Express Corporation2026-06-02
 MO,Unknown,2026-06-02,6,Unknown2026-06-02
-ME,SP+ Parking,2026-06-02,N/A,SP+ Parking2026-06-02
+ME,SP+ Parking,2026-06-02,100,SP+ Parking2026-06-02
 CA,"Off Duty Officers, Inc. (4873 Lone Tree Way)",2026-06-02,5,"Off Duty Officers, Inc. (4873 Lone Tree Way)2026-06-02"
 CA,"Off Duty Officers, Inc. (375 M St.)",2026-06-02,1,"Off Duty Officers, Inc. (375 M St.)2026-06-02"
 CA,"Off Duty Officers, Inc. (789 W Harbor Dr.)",2026-06-02,5,"Off Duty Officers, Inc. (789 W Harbor Dr.)2026-06-02"
@@ -1126,7 +1126,7 @@ WA,Maverick Washington LLC Silver Dollar Mill Creek Casino,2026-05-29,N/A,Maveri
 CA,"NYDJ Apparel, LLC",2026-05-29,2,"NYDJ Apparel, LLC2026-05-29"
 NJ,IPIC Theaters,2026-05-28,97,IPIC Theaters2026-05-28
 NY,"IPIC Theaters, LLC.",2026-05-28,58,"IPIC Theaters, LLC.2026-05-28"
-VT,Franklin Foods,2026-05-28,99,Franklin Foods2026-05-28
+VT,Franklin Foods,2026-05-28,N/A,Franklin Foods2026-05-28
 CA,Acumen LLC & The SPHERE,2026-05-28,11,Acumen LLC & The SPHERE2026-05-28
 CA,Acumen LLC & The SPHERE,2026-05-28,58,Acumen LLC & The SPHERE2026-05-28
 OR,PacificSource Hood River,2026-05-27,N/A,PacificSource Hood River2026-05-27
@@ -1477,7 +1477,7 @@ CA,"Skyline Avatar House, LP",2026-04-29,49,"Skyline Avatar House, LP2026-04-29"
 OR,"Prineville, OR Facility",2026-04-29,N/A,"Prineville, OR Facility2026-04-29"
 CA,Transdev,2026-04-29,126,Transdev2026-04-29
 CA,"C&K Market, Inc.",2026-04-29,32,"C&K Market, Inc.2026-04-29"
-VT,Perrigo Company,2026-04-28,N/A,Perrigo Company2026-04-28
+VT,Perrigo Company,2026-04-28,162,Perrigo Company2026-04-28
 NY,"Fresenius USA Manufacturing, Inc.",2026-04-28,56,"Fresenius USA Manufacturing, Inc.2026-04-28"
 CA,"Five Guys Operations, LLC",2026-04-28,13,"Five Guys Operations, LLC2026-04-28"
 CA,Geodis,2026-04-28,238,Geodis2026-04-28
@@ -1820,7 +1820,7 @@ CA,Morgan Technical Ceramics,2026-04-01,94,Morgan Technical Ceramics2026-04-01
 CA,Think Together,2026-04-01,114,Think Together2026-04-01
 CA,Victoria Nursery,2026-04-01,62,Victoria Nursery2026-04-01
 IN,"Oakland City University, Inc",2026-04-01,167,"Oakland City University, Inc2026-04-01"
-AZ,"Aramark Campus, LLC",2026-04-01,108,"Aramark Campus, LLC2026-04-01"
+AZ,"Aramark Campus, LLC",2026-04-01,N/A,"Aramark Campus, LLC2026-04-01"
 CA,Union of Pan Asian Communities - Positive Solutions and Elder Multicultural Access & Support Service,2026-04-01,14,Union of Pan Asian Communities - Positive Solutions and Elder Multicultural Access & Support Service2026-04-01
 CA,Union of Pan Asian Communities - East Wind Clubhouse,2026-04-01,5,Union of Pan Asian Communities - East Wind Clubhouse2026-04-01
 CA,Consolidated Entertainment LLC (Reading Cinemas,2026-04-01,63,Consolidated Entertainment LLC (Reading Cinemas2026-04-01
@@ -1888,7 +1888,7 @@ ORLANDO, FL, 32819",2026-03-27,120,"HCL America, Inc
 
 ORLANDO, FL, 328192026-03-27"
 CA,"Kay and Associates, Inc.",2026-03-26,103,"Kay and Associates, Inc.2026-03-26"
-AZ,"Sinomax East, Inc.",2026-03-26,89,"Sinomax East, Inc.2026-03-26"
+AZ,"Sinomax East, Inc.",2026-03-26,N/A,"Sinomax East, Inc.2026-03-26"
 CA,Welcome Palm Springs LLC dba Riviera Resort & Spa Palm Springs,2026-03-26,233,Welcome Palm Springs LLC dba Riviera Resort & Spa Palm Springs2026-03-26
 RI,"Allied Group, LLC",2026-03-26,154,"Allied Group, LLC2026-03-26"
 OR,Horizon Air - Rogue Valley Internationa,2026-03-26,N/A,Horizon Air - Rogue Valley Internationa2026-03-26
@@ -2829,7 +2829,7 @@ CA,Amazon - MAB4,2026-01-28,131,Amazon - MAB42026-01-28
 CA,Thermo Fisher Scientific,2026-01-27,173,Thermo Fisher Scientific2026-01-27
 CA,"Schultz Industrial Services, Inc.",2026-01-27,66,"Schultz Industrial Services, Inc.2026-01-27"
 CA,"Catholic Charities, Diocese of San Diego - Pastoral Center",2026-01-27,6,"Catholic Charities, Diocese of San Diego - Pastoral Center2026-01-27"
-AZ,Benchmark,2026-01-27,65,Benchmark2026-01-27
+AZ,Benchmark,2026-01-27,N/A,Benchmark2026-01-27
 VA,Bear Express LLC,2026-01-27,168,Bear Express LLC2026-01-27
 CA,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter",2026-01-27,7,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter2026-01-27"
 CA,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP",2026-01-27,45,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP2026-01-27"
@@ -3065,7 +3065,7 @@ VA,SMBC Manubank,2026-01-08,6,SMBC Manubank2026-01-08
 CA,Pomona Hospital Medical Center (300),2026-01-07,4,Pomona Hospital Medical Center (300)2026-01-07
 CA,Pomona Hospital Medical Center (1798),2026-01-07,108,Pomona Hospital Medical Center (1798)2026-01-07
 CA,Pomona Hospital Medical Center (1601),2026-01-07,1,Pomona Hospital Medical Center (1601)2026-01-07
-AZ,GNC Distribution Center,2026-01-07,66,GNC Distribution Center2026-01-07
+AZ,GNC Distribution Center,2026-01-07,N/A,GNC Distribution Center2026-01-07
 AZ,Avelo Airlines,2026-01-07,N/A,Avelo Airlines2026-01-07
 WA,Tessera,2026-01-06,N/A,Tessera2026-01-06
 CA,"Med-Pharmex, Inc.",2026-01-06,130,"Med-Pharmex, Inc.2026-01-06"
