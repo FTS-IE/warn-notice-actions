@@ -90,7 +90,7 @@ CA,Tree Service Unlimited Inc.,2026-10-13,137,Tree Service Unlimited Inc.2026-10
 CA,"ServiceNow, Inc.",2026-10-13,18,"ServiceNow, Inc.2026-10-13"
 IA,Milestone Technologies ,2026-10-13,N/A,Milestone Technologies 2026-10-13
 CA,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",2026-10-12,7,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.2026-10-12"
-ME,Applegreen,2026-10-12,N/A,Applegreen2026-10-12
+ME,Applegreen,2026-10-12,23,Applegreen2026-10-12
 IA,Cambridge Investment Research ,2026-10-12,N/A,Cambridge Investment Research 2026-10-12
 CA,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",2026-10-12,1,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.2026-10-12"
 NJ,The Cannabist Company,2026-10-11,86,The Cannabist Company2026-10-11
@@ -111,7 +111,7 @@ CA,"Haas Automation, Inc.",2026-10-07,74,"Haas Automation, Inc.2026-10-07"
 NY,"Sky Chefs, LLC",2026-10-07,471,"Sky Chefs, LLC2026-10-07"
 NJ,Digital Room LLC,2026-10-06,69,Digital Room LLC2026-10-06
 CA,"Beachbody, LLC",2026-10-06,80,"Beachbody, LLC2026-10-06"
-DE,Fortrex,2026-10-06,145,Fortrex2026-10-06
+DE,Fortrex,2026-10-06,N/A,Fortrex2026-10-06
 OR,Medford Delivery Facility,2026-10-06,N/A,Medford Delivery Facility2026-10-06
 CA,"Caribou Biosciences, Inc.",2026-10-06,87,"Caribou Biosciences, Inc.2026-10-06"
 IN,American Woodmark Corporation,2026-10-05,207,American Woodmark Corporation2026-10-05
@@ -313,7 +313,7 @@ CA,University of Southern California (12015 E Waterfront Dr.),2026-09-09,8,Unive
 CA,Shell Catalyst & Technologies,2026-09-09,64,Shell Catalyst & Technologies2026-09-09
 CA,University of Southern California (3740 McClintock Ave),2026-09-09,2,University of Southern California (3740 McClintock Ave)2026-09-09
 CA,University of Southern California (4676 Admiralty Way),2026-09-09,15,University of Southern California (4676 Admiralty Way)2026-09-09
-ME,Count & Crush LLC,2026-09-09,N/A,Count & Crush LLC2026-09-09
+ME,Count & Crush LLC,2026-09-09,54,Count & Crush LLC2026-09-09
 CA,University of Southern California (746 W Adams Blvd.),2026-09-09,1,University of Southern California (746 W Adams Blvd.)2026-09-09
 CA,University of Southern California (941 Bloom Walk),2026-09-09,4,University of Southern California (941 Bloom Walk)2026-09-09
 CA,Sapporo U.S.A. (1999 Citracado Parkway),2026-09-09,200,Sapporo U.S.A. (1999 Citracado Parkway)2026-09-09
@@ -931,7 +931,7 @@ TN,Smurfit Westrock,2026-06-17,N/A,Smurfit Westrock2026-06-17
 TN,YesCare Corp.,2026-06-17,N/A,YesCare Corp.2026-06-17
 WA,"First Student, Inc.",2026-06-17,N/A,"First Student, Inc.2026-06-17"
 IN,"SIMOS Insourcing Solutions, LLC",2026-06-17,572,"SIMOS Insourcing Solutions, LLC2026-06-17"
-VT,"St. Albans Creamery, LLC",2026-06-17,N/A,"St. Albans Creamery, LLC2026-06-17"
+VT,"St. Albans Creamery, LLC",2026-06-17,81,"St. Albans Creamery, LLC2026-06-17"
 CA,Lumileds LLC,2026-06-17,11,Lumileds LLC2026-06-17
 AZ,"Leona Arizona Employment Group, Inc.",2026-06-16,66,"Leona Arizona Employment Group, Inc.2026-06-16"
 CA,"Cisco Systems, Inc.",2026-06-16,81,"Cisco Systems, Inc.2026-06-16"
@@ -967,7 +967,7 @@ CA,"ServiceNow, Inc.",2026-06-10,54,"ServiceNow, Inc.2026-06-10"
 CA,"Veritone, Inc.",2026-06-10,31,"Veritone, Inc.2026-06-10"
 HI,Ben Bridge (Pearlridge Store),2026-06-09,N/A,Ben Bridge (Pearlridge Store)2026-06-09
 IA,Iowa Department of Management,2026-06-09,N/A,Iowa Department of Management2026-06-09
-VT,University of Vermont Health,2026-06-09,142,University of Vermont Health2026-06-09
+VT,University of Vermont Health,2026-06-09,N/A,University of Vermont Health2026-06-09
 VA,General Dynamics Information Technology ,2026-06-09,174,General Dynamics Information Technology 2026-06-09
 FL,"Sanitas Medical Centers 
 7342 W Commercial Blvd,
@@ -1129,14 +1129,14 @@ CA,"Off Duty Officers, Inc. (8725 Ariva Ct.)",2026-06-02,3,"Off Duty Officers, I
 CA,"Off Duty Officers, Inc. (262 North El Camino Real)",2026-06-02,3,"Off Duty Officers, Inc. (262 North El Camino Real)2026-06-02"
 CA,"Off Duty Officers, Inc. (3439 Via Montebello)",2026-06-02,4,"Off Duty Officers, Inc. (3439 Via Montebello)2026-06-02"
 CA,"Off Duty Officers, Inc. (3333 National Ave.)",2026-06-02,2,"Off Duty Officers, Inc. (3333 National Ave.)2026-06-02"
-AZ,Federal Express Corporation,2026-06-02,N/A,Federal Express Corporation2026-06-02
+AZ,Federal Express Corporation,2026-06-02,101,Federal Express Corporation2026-06-02
 CA,"Off Duty Officers, Inc. (3477 E. Gage Ave.)",2026-06-02,2,"Off Duty Officers, Inc. (3477 E. Gage Ave.)2026-06-02"
 CA,"Off Duty Officers, Inc. (1196 3rd Ave.)",2026-06-02,1,"Off Duty Officers, Inc. (1196 3rd Ave.)2026-06-02"
 MO,Unknown,2026-06-02,6,Unknown2026-06-02
 IN,Noble Inc,2026-06-02,85,Noble Inc2026-06-02
 CA,"Off Duty Officers, Inc. (4873 Lone Tree Way)",2026-06-02,5,"Off Duty Officers, Inc. (4873 Lone Tree Way)2026-06-02"
 CA,"Off Duty Officers, Inc. (375 M St.)",2026-06-02,1,"Off Duty Officers, Inc. (375 M St.)2026-06-02"
-ME,SP+ Parking,2026-06-02,N/A,SP+ Parking2026-06-02
+ME,SP+ Parking,2026-06-02,100,SP+ Parking2026-06-02
 CA,"Off Duty Officers, Inc. (123 35th St.)",2026-06-02,2,"Off Duty Officers, Inc. (123 35th St.)2026-06-02"
 CA,"Off Duty Officers, Inc. (12855 Black Mountain Rd.)",2026-06-02,2,"Off Duty Officers, Inc. (12855 Black Mountain Rd.)2026-06-02"
 CA,"Off Duty Officers, Inc. (13533 Seal Beach Blvd.)",2026-06-02,8,"Off Duty Officers, Inc. (13533 Seal Beach Blvd.)2026-06-02"
@@ -1211,7 +1211,7 @@ OR,PacificSource - Salem,2026-05-27,N/A,PacificSource - Salem2026-05-27
 OR,PacificSource Hood River,2026-05-27,N/A,PacificSource Hood River2026-05-27
 PA,Lineage Logistics,2026-05-27,208,Lineage Logistics2026-05-27
 OR,PacificSource - Portland,2026-05-27,N/A,PacificSource - Portland2026-05-27
-AZ,Honeywell AZ0Y,2026-05-27,N/A,Honeywell AZ0Y2026-05-27
+AZ,Honeywell AZ0Y,2026-05-27,60,Honeywell AZ0Y2026-05-27
 TN,"Shimmick Construction Company, Inc.",2026-05-26,N/A,"Shimmick Construction Company, Inc.2026-05-26"
 WA,"Servatron, Inc.",2026-05-26,N/A,"Servatron, Inc.2026-05-26"
 OR,Safeway Store 0378 - Newport,2026-05-26,N/A,Safeway Store 0378 - Newport2026-05-26
@@ -1324,7 +1324,7 @@ TN,Tsubaki Nakashima,2026-05-14,N/A,Tsubaki Nakashima2026-05-14
 NJ,Scudetto Logistics,2026-05-14,120,Scudetto Logistics2026-05-14
 TN,"Greenbean Ventures, LLC",2026-05-14,N/A,"Greenbean Ventures, LLC2026-05-14"
 IA,UnityPoint Health ,2026-05-14,N/A,UnityPoint Health 2026-05-14
-AZ,"SDH Education West, LLC",2026-05-14,N/A,"SDH Education West, LLC2026-05-14"
+AZ,"SDH Education West, LLC",2026-05-14,489,"SDH Education West, LLC2026-05-14"
 CA,Durham School Services,2026-05-13,51,Durham School Services2026-05-13
 CA,Boys &Girls Club of the La Harbor - Harbor City Elementary School,2026-05-13,10,Boys &Girls Club of the La Harbor - Harbor City Elementary School2026-05-13
 CA,Boys & Girls Club of the LA Harbor - Environmental Charter MS,2026-05-13,4,Boys & Girls Club of the LA Harbor - Environmental Charter MS2026-05-13
@@ -1543,7 +1543,7 @@ VA,AeroFarms Inc. - Rescinded,2026-04-29,133,AeroFarms Inc. - Rescinded2026-04-2
 CA,Transdev,2026-04-29,126,Transdev2026-04-29
 UT,Milestone Technologies Inc.,2026-04-29,50,Milestone Technologies Inc.2026-04-29
 VA,Milestone Technologies Inc,2026-04-29,50,Milestone Technologies Inc2026-04-29
-AZ,Northpoint Expeditionary Learning Academy,2026-04-29,N/A,Northpoint Expeditionary Learning Academy2026-04-29
+AZ,Northpoint Expeditionary Learning Academy,2026-04-29,21,Northpoint Expeditionary Learning Academy2026-04-29
 CA,"Skyline Avatar House, LP",2026-04-29,49,"Skyline Avatar House, LP2026-04-29"
 FL,"Atento 
 3350 SW 148th Avenue
@@ -1628,7 +1628,7 @@ CA,Epic Games Inc.,2026-04-23,16,Epic Games Inc.2026-04-23
 CA,Epic Games Inc. (Remote Employees in El Segundo),2026-04-23,2,Epic Games Inc. (Remote Employees in El Segundo)2026-04-23
 AL,LineQuest LLC,2026-04-23,113,LineQuest LLC2026-04-23
 CA,Epic Games Inc. (Remote Employees in San Francisco),2026-04-23,28,Epic Games Inc. (Remote Employees in San Francisco)2026-04-23
-AZ,"Republic National Distributing Company, LLC",2026-04-23,N/A,"Republic National Distributing Company, LLC2026-04-23"
+AZ,"Republic National Distributing Company, LLC",2026-04-23,213,"Republic National Distributing Company, LLC2026-04-23"
 VA,Republic National Distributing Company LLC,2026-04-23,428,Republic National Distributing Company LLC2026-04-23
 CA,Epic Games Inc. (Remote Employees in Los Angeles),2026-04-23,61,Epic Games Inc. (Remote Employees in Los Angeles)2026-04-23
 CA,Freudenberg Medical LLC,2026-04-22,80,Freudenberg Medical LLC2026-04-22
@@ -1680,7 +1680,7 @@ CA,YMCA Liberty Elementary School,2026-04-17,9,YMCA Liberty Elementary School202
 CA,YMCA Arellanes Elementary School,2026-04-17,6,YMCA Arellanes Elementary School2026-04-17
 CA,YMCA Arellanes Junior High,2026-04-17,4,YMCA Arellanes Junior High2026-04-17
 CA,YMCA Tunnel Elementary School,2026-04-17,10,YMCA Tunnel Elementary School2026-04-17
-AZ,DLH Solutions,2026-04-17,312,DLH Solutions2026-04-17
+AZ,DLH Solutions,2026-04-17,N/A,DLH Solutions2026-04-17
 SC,Milliken (Cedar Hill Plant),2026-04-17,126,Milliken (Cedar Hill Plant)2026-04-17
 FL,"Iron Galaxy Studios, LLC 
 189 S Orange Ave STE 1900
@@ -1941,7 +1941,7 @@ CA,John Adams Academy - El Dorado,2026-03-30,6,John Adams Academy - El Dorado202
 CA,John Adams Academy,2026-03-30,13,John Adams Academy2026-03-30
 CA,"Sentinel Transportation, LLC",2026-03-30,24,"Sentinel Transportation, LLC2026-03-30"
 WA,Starbucks,2026-03-27,N/A,Starbucks2026-03-27
-KS,Ashley Clinic/Southeast Kansas Mental Health Center,2026-03-27,116,Ashley Clinic/Southeast Kansas Mental Health Center2026-03-27
+KS,Ashley Clinic/Southeast Kansas Mental Health Center,2026-03-27,N/A,Ashley Clinic/Southeast Kansas Mental Health Center2026-03-27
 CA,Crittenton (201 W. Amerige Ave),2026-03-27,37,Crittenton (201 W. Amerige Ave)2026-03-27
 CA,Crittenton (600 N. Harbor Blvd),2026-03-27,26,Crittenton (600 N. Harbor Blvd)2026-03-27
 OR,Sunstone Way,2026-03-27,N/A,Sunstone Way2026-03-27
@@ -2903,7 +2903,7 @@ NAPLES, FL, 34103",2026-01-27,235,"Naples Grande Beach Resort
 475 Seagate Drive
 
 NAPLES, FL, 341032026-01-27"
-AZ,Benchmark,2026-01-27,N/A,Benchmark2026-01-27
+AZ,Benchmark,2026-01-27,65,Benchmark2026-01-27
 TN,"NIKE Retail Services, Inc.",2026-01-27,N/A,"NIKE Retail Services, Inc.2026-01-27"
 CA,Thermo Fisher Scientific,2026-01-27,173,Thermo Fisher Scientific2026-01-27
 CA,Pinterest Inc. (San Francisco),2026-01-27,98,Pinterest Inc. (San Francisco)2026-01-27
@@ -2911,7 +2911,7 @@ CA,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter",2026-0
 IA,American Contract Systems ,2026-01-27,N/A,American Contract Systems 2026-01-27
 CA,JBT Marel Corporation,2026-01-27,59,JBT Marel Corporation2026-01-27
 CA,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP",2026-01-27,45,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP2026-01-27"
-ME,Gathr Outdoors dba Pride Manufacturing Co LLC,2026-01-27,N/A,Gathr Outdoors dba Pride Manufacturing Co LLC2026-01-27
+ME,Gathr Outdoors dba Pride Manufacturing Co LLC,2026-01-27,6,Gathr Outdoors dba Pride Manufacturing Co LLC2026-01-27
 CA,"Catholic Charities, Diocese of San Diego - MG Suite A",2026-01-27,7,"Catholic Charities, Diocese of San Diego - MG Suite A2026-01-27"
 CA,"Catholic Charities, Diocese of San Diego - MG Suite B",2026-01-27,11,"Catholic Charities, Diocese of San Diego - MG Suite B2026-01-27"
 CA,Pinterest Inc. (Palo Alto),2026-01-27,16,Pinterest Inc. (Palo Alto)2026-01-27
@@ -3055,7 +3055,7 @@ Bonita Springs
 BONITA SPRINGS, FL, 339312026-01-08"
 WA,SMBC Manubank,2026-01-08,N/A,SMBC Manubank2026-01-08
 CA,Sealed Air Corporation,2026-01-08,51,Sealed Air Corporation2026-01-08
-AZ,SMBC Group - JeniusBank,2026-01-08,N/A,SMBC Group - JeniusBank2026-01-08
+AZ,SMBC Group - JeniusBank,2026-01-08,33,SMBC Group - JeniusBank2026-01-08
 OR,Oregon - Remote Employees,2026-01-08,N/A,Oregon - Remote Employees2026-01-08
 FL,"SMBC MANUBANK 
 Jacksonville
