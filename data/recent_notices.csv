@@ -282,7 +282,7 @@ WA,Pacific Ag Services LLC,2026-09-16,N/A,Pacific Ag Services LLC2026-09-16
 CA,Full Steam Staffing (4239 Pock Lane),2026-09-15,19,Full Steam Staffing (4239 Pock Lane)2026-09-15
 CA,Quixote Studio Services - Sylmar South,2026-09-15,3,Quixote Studio Services - Sylmar South2026-09-15
 VA,Bechtel Power Corporation ,2026-09-15,200,Bechtel Power Corporation 2026-09-15
-VT,University of Vermont Health,2026-09-15,N/A,University of Vermont Health2026-09-15
+VT,University of Vermont Health,2026-09-15,179,University of Vermont Health2026-09-15
 CA,Quixote Studio Services - North Valley Campus A,2026-09-15,24,Quixote Studio Services - North Valley Campus A2026-09-15
 AZ,Farmers Investment Co.,2026-09-15,10,Farmers Investment Co.2026-09-15
 NJ,AT&T,2026-09-15,138,AT&T2026-09-15
@@ -567,7 +567,7 @@ IA,Wells Fargo,2026-08-04,N/A,Wells Fargo2026-08-04
 WA,Zillow Group,2026-08-04,N/A,Zillow Group2026-08-04
 AL,Biocryst Pharmaceuticals Inc,2026-08-04,47,Biocryst Pharmaceuticals Inc2026-08-04
 ME,"Host International, Inc.",2026-08-04,102,"Host International, Inc.2026-08-04"
-AZ,Essendant,2026-08-04,53,Essendant2026-08-04
+AZ,Essendant,2026-08-04,N/A,Essendant2026-08-04
 CA,"Nutanix, Inc.",2026-08-04,65,"Nutanix, Inc.2026-08-04"
 TN,Wellpath,2026-08-04,N/A,Wellpath2026-08-04
 NY,Federal Express Corporation (Multiple Regions),2026-08-03,31,Federal Express Corporation (Multiple Regions)2026-08-03
@@ -769,7 +769,7 @@ PA,"Advantest, Inc.",2026-06-30,55,"Advantest, Inc.2026-06-30"
 NY,Cayuga Home for Children,2026-06-30,1,Cayuga Home for Children2026-06-30
 CA,Athwal FDS Corporation,2026-06-30,35,Athwal FDS Corporation2026-06-30
 NY,"Maximus, Inc.",2026-06-30,176,"Maximus, Inc.2026-06-30"
-AZ,"Conduent Commercial Solutions, LLC",2026-06-29,3,"Conduent Commercial Solutions, LLC2026-06-29"
+AZ,"Conduent Commercial Solutions, LLC",2026-06-29,N/A,"Conduent Commercial Solutions, LLC2026-06-29"
 HI,Ali`i Health Center,2026-06-29,N/A,Ali`i Health Center2026-06-29
 PA,Durham School Services,2026-06-29,299,Durham School Services2026-06-29
 VA,Times Fiber Communications (TFC),2026-06-29,78,Times Fiber Communications (TFC)2026-06-29
@@ -931,9 +931,9 @@ TN,Smurfit Westrock,2026-06-17,N/A,Smurfit Westrock2026-06-17
 TN,YesCare Corp.,2026-06-17,N/A,YesCare Corp.2026-06-17
 WA,"First Student, Inc.",2026-06-17,N/A,"First Student, Inc.2026-06-17"
 IN,"SIMOS Insourcing Solutions, LLC",2026-06-17,572,"SIMOS Insourcing Solutions, LLC2026-06-17"
-VT,"St. Albans Creamery, LLC",2026-06-17,N/A,"St. Albans Creamery, LLC2026-06-17"
+VT,"St. Albans Creamery, LLC",2026-06-17,81,"St. Albans Creamery, LLC2026-06-17"
 CA,Lumileds LLC,2026-06-17,11,Lumileds LLC2026-06-17
-AZ,"Leona Arizona Employment Group, Inc.",2026-06-16,66,"Leona Arizona Employment Group, Inc.2026-06-16"
+AZ,"Leona Arizona Employment Group, Inc.",2026-06-16,N/A,"Leona Arizona Employment Group, Inc.2026-06-16"
 CA,"Cisco Systems, Inc.",2026-06-16,81,"Cisco Systems, Inc.2026-06-16"
 TN,Pilgrim's Pride Corporation,2026-06-16,N/A,Pilgrim's Pride Corporation2026-06-16
 CA,"Robinhood Markets, Inc.",2026-06-16,63,"Robinhood Markets, Inc.2026-06-16"
@@ -948,7 +948,7 @@ VA,Vestis Services LLC,2026-06-15,19,Vestis Services LLC2026-06-15
 CA,Leggett & Platt,2026-06-15,125,Leggett & Platt2026-06-15
 IA,"Plastic Products Co., Inc.",2026-06-15,N/A,"Plastic Products Co., Inc.2026-06-15"
 CA,United Natural Foods West,2026-06-15,11,United Natural Foods West2026-06-15
-AZ,Paragon Space Development Corporation,2026-06-12,77,Paragon Space Development Corporation2026-06-12
+AZ,Paragon Space Development Corporation,2026-06-12,N/A,Paragon Space Development Corporation2026-06-12
 MO,Unknown,2026-06-12,67,Unknown2026-06-12
 CA,"Uber Technologies, Inc.",2026-06-12,3,"Uber Technologies, Inc.2026-06-12"
 AL,Legacy Cabinets,2026-06-11,397,Legacy Cabinets2026-06-11
@@ -967,7 +967,7 @@ CA,"ServiceNow, Inc.",2026-06-10,54,"ServiceNow, Inc.2026-06-10"
 CA,"Veritone, Inc.",2026-06-10,31,"Veritone, Inc.2026-06-10"
 HI,Ben Bridge (Pearlridge Store),2026-06-09,N/A,Ben Bridge (Pearlridge Store)2026-06-09
 IA,Iowa Department of Management,2026-06-09,N/A,Iowa Department of Management2026-06-09
-VT,University of Vermont Health,2026-06-09,N/A,University of Vermont Health2026-06-09
+VT,University of Vermont Health,2026-06-09,142,University of Vermont Health2026-06-09
 VA,General Dynamics Information Technology ,2026-06-09,174,General Dynamics Information Technology 2026-06-09
 FL,"Sanitas Medical Centers 
 7342 W Commercial Blvd,
@@ -1192,7 +1192,7 @@ MAITLAND, FL, 32751",2026-05-29,74,"Rifle, LLC
 133 Atlantic Drive
 
 MAITLAND, FL, 327512026-05-29"
-VT,Franklin Foods,2026-05-28,N/A,Franklin Foods2026-05-28
+VT,Franklin Foods,2026-05-28,99,Franklin Foods2026-05-28
 CA,Acumen LLC & The SPHERE,2026-05-28,58,Acumen LLC & The SPHERE2026-05-28
 NY,"IPIC Theaters, LLC.",2026-05-28,58,"IPIC Theaters, LLC.2026-05-28"
 NJ,IPIC Theaters,2026-05-28,97,IPIC Theaters2026-05-28
@@ -1460,7 +1460,7 @@ IN,Cummins Inc,2026-05-01,59,Cummins Inc2026-05-01
 CA,"Bayless Manufacturing, LLC",2026-05-01,43,"Bayless Manufacturing, LLC2026-05-01"
 NY,Saks & Company LLC,2026-05-01,24,Saks & Company LLC2026-05-01
 NY,Saks & Company LLC,2026-05-01,3,Saks & Company LLC2026-05-01
-KS,First Student,2026-05-01,N/A,First Student2026-05-01
+KS,First Student,2026-05-01,151,First Student2026-05-01
 NY,Saks & Company LLC,2026-05-01,8,Saks & Company LLC2026-05-01
 NY,Saks & Company LLC,2026-05-01,2,Saks & Company LLC2026-05-01
 CA,"Bayless Manufacturing, LLC",2026-05-01,16,"Bayless Manufacturing, LLC2026-05-01"
@@ -1536,14 +1536,14 @@ NY,"Knight Facilities Management, Inc.",2026-04-30,2,"Knight Facilities Manageme
 NY,"Knight Facilities Management, Inc.",2026-04-30,2,"Knight Facilities Management, Inc.2026-04-30"
 CA,"C&K Market, Inc.",2026-04-29,32,"C&K Market, Inc.2026-04-29"
 OR,"Prineville, OR Facility",2026-04-29,N/A,"Prineville, OR Facility2026-04-29"
-AZ,Benchmark,2026-04-29,75,Benchmark2026-04-29
+AZ,Benchmark,2026-04-29,N/A,Benchmark2026-04-29
 TN,Yanfeng International Automotive Technology US I LLC,2026-04-29,N/A,Yanfeng International Automotive Technology US I LLC2026-04-29
 CA,Dudek,2026-04-29,36,Dudek2026-04-29
 VA,AeroFarms Inc. - Rescinded,2026-04-29,133,AeroFarms Inc. - Rescinded2026-04-29
 CA,Transdev,2026-04-29,126,Transdev2026-04-29
 UT,Milestone Technologies Inc.,2026-04-29,50,Milestone Technologies Inc.2026-04-29
 VA,Milestone Technologies Inc,2026-04-29,50,Milestone Technologies Inc2026-04-29
-AZ,Northpoint Expeditionary Learning Academy,2026-04-29,21,Northpoint Expeditionary Learning Academy2026-04-29
+AZ,Northpoint Expeditionary Learning Academy,2026-04-29,N/A,Northpoint Expeditionary Learning Academy2026-04-29
 CA,"Skyline Avatar House, LP",2026-04-29,49,"Skyline Avatar House, LP2026-04-29"
 FL,"Atento 
 3350 SW 148th Avenue
@@ -1628,7 +1628,7 @@ CA,Epic Games Inc.,2026-04-23,16,Epic Games Inc.2026-04-23
 CA,Epic Games Inc. (Remote Employees in El Segundo),2026-04-23,2,Epic Games Inc. (Remote Employees in El Segundo)2026-04-23
 AL,LineQuest LLC,2026-04-23,113,LineQuest LLC2026-04-23
 CA,Epic Games Inc. (Remote Employees in San Francisco),2026-04-23,28,Epic Games Inc. (Remote Employees in San Francisco)2026-04-23
-AZ,"Republic National Distributing Company, LLC",2026-04-23,N/A,"Republic National Distributing Company, LLC2026-04-23"
+AZ,"Republic National Distributing Company, LLC",2026-04-23,213,"Republic National Distributing Company, LLC2026-04-23"
 VA,Republic National Distributing Company LLC,2026-04-23,428,Republic National Distributing Company LLC2026-04-23
 CA,Epic Games Inc. (Remote Employees in Los Angeles),2026-04-23,61,Epic Games Inc. (Remote Employees in Los Angeles)2026-04-23
 CA,Freudenberg Medical LLC,2026-04-22,80,Freudenberg Medical LLC2026-04-22
@@ -1721,7 +1721,7 @@ CA,The Primary School,2026-04-15,147,The Primary School2026-04-15
 CA,Snap Inc.,2026-04-15,73,Snap Inc.2026-04-15
 WA,Snap Inc.,2026-04-15,N/A,Snap Inc.2026-04-15
 TN,Pave It Forward Logistics,2026-04-15,N/A,Pave It Forward Logistics2026-04-15
-AZ,"Marsden Services, LLC",2026-04-15,85,"Marsden Services, LLC2026-04-15"
+AZ,"Marsden Services, LLC",2026-04-15,N/A,"Marsden Services, LLC2026-04-15"
 AL,Serta Mattress Company,2026-04-15,102,Serta Mattress Company2026-04-15
 CA,Redding Cement Plant,2026-04-14,53,Redding Cement Plant2026-04-14
 IA,UnityPoint Health ,2026-04-14,N/A,UnityPoint Health 2026-04-14
@@ -1956,7 +1956,7 @@ ORLANDO, FL, 328192026-03-27"
 CA,Rb Wine Associates LLC dba Rack & Riddle,2026-03-27,32,Rb Wine Associates LLC dba Rack & Riddle2026-03-27
 UT,"ProFrac Services, LLC",2026-03-27,157,"ProFrac Services, LLC2026-03-27"
 OR,Horizon Air - Rogue Valley Internationa,2026-03-26,N/A,Horizon Air - Rogue Valley Internationa2026-03-26
-AZ,"Sinomax East, Inc.",2026-03-26,89,"Sinomax East, Inc.2026-03-26"
+AZ,"Sinomax East, Inc.",2026-03-26,N/A,"Sinomax East, Inc.2026-03-26"
 RI,"Allied Group, LLC",2026-03-26,154,"Allied Group, LLC2026-03-26"
 CA,Welcome Palm Springs LLC dba Riviera Resort & Spa Palm Springs,2026-03-26,233,Welcome Palm Springs LLC dba Riviera Resort & Spa Palm Springs2026-03-26
 CA,"Kay and Associates, Inc.",2026-03-26,103,"Kay and Associates, Inc.2026-03-26"
@@ -2297,7 +2297,7 @@ CA,Heritage Bank of Commerce (Morgan Hill),2026-02-27,1,Heritage Bank of Commerc
 PA,"GIANT Company, LLC",2026-02-27,76,"GIANT Company, LLC2026-02-27"
 IA,CNH Industrial America LLC ,2026-02-27,N/A,CNH Industrial America LLC 2026-02-27
 IA,CNH Industrial America LLC ,2026-02-27,N/A,CNH Industrial America LLC 2026-02-27
-KS,"First Brands Group, LLC (Horizon Global)",2026-02-27,64,"First Brands Group, LLC (Horizon Global)2026-02-27"
+KS,"First Brands Group, LLC (Horizon Global)",2026-02-27,N/A,"First Brands Group, LLC (Horizon Global)2026-02-27"
 IA,CNH Industrial America LLC ,2026-02-27,N/A,CNH Industrial America LLC 2026-02-27
 CA,Foods Co #784,2026-02-27,49,Foods Co #7842026-02-27
 CA,Foods Co #371,2026-02-27,58,Foods Co #3712026-02-27
@@ -2911,7 +2911,7 @@ CA,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter",2026-0
 IA,American Contract Systems ,2026-01-27,N/A,American Contract Systems 2026-01-27
 CA,JBT Marel Corporation,2026-01-27,59,JBT Marel Corporation2026-01-27
 CA,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP",2026-01-27,45,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP2026-01-27"
-ME,Gathr Outdoors dba Pride Manufacturing Co LLC,2026-01-27,6,Gathr Outdoors dba Pride Manufacturing Co LLC2026-01-27
+ME,Gathr Outdoors dba Pride Manufacturing Co LLC,2026-01-27,N/A,Gathr Outdoors dba Pride Manufacturing Co LLC2026-01-27
 CA,"Catholic Charities, Diocese of San Diego - MG Suite A",2026-01-27,7,"Catholic Charities, Diocese of San Diego - MG Suite A2026-01-27"
 CA,"Catholic Charities, Diocese of San Diego - MG Suite B",2026-01-27,11,"Catholic Charities, Diocese of San Diego - MG Suite B2026-01-27"
 CA,Pinterest Inc. (Palo Alto),2026-01-27,16,Pinterest Inc. (Palo Alto)2026-01-27
