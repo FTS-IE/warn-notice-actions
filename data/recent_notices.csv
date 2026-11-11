@@ -1,14 +1,14 @@
 State,Company,Notice Date,Jobs Affected,key
-SC,"Family Endeavors, Inc.",2026-12-31,16,"Family Endeavors, Inc.2026-12-31"
+MO,Unknown,2026-12-31,107,Unknown2026-12-31
 NY,"Altera Digital Health, Inc.",2026-12-31,133,"Altera Digital Health, Inc.2026-12-31"
-NJ,Novo Nordisk,2026-12-31,108,Novo Nordisk2026-12-31
-PA,"Family Endeavors, Inc",2026-12-31,15,"Family Endeavors, Inc2026-12-31"
-SC,KPR US LLC,2026-12-31,3,KPR US LLC2026-12-31
+NY,"SYPartners, LLC",2026-12-31,31,"SYPartners, LLC2026-12-31"
 MO,Unknown,2026-12-31,11,Unknown2026-12-31
 CT,IDEX Health and Science LLC,2026-12-31,N/A,IDEX Health and Science LLC2026-12-31
 CT,IDEX Health and Science LLC,2026-12-31,N/A,IDEX Health and Science LLC2026-12-31
-NY,"SYPartners, LLC",2026-12-31,31,"SYPartners, LLC2026-12-31"
-MO,Unknown,2026-12-31,107,Unknown2026-12-31
+NJ,Novo Nordisk,2026-12-31,108,Novo Nordisk2026-12-31
+PA,"Family Endeavors, Inc",2026-12-31,15,"Family Endeavors, Inc2026-12-31"
+SC,"Family Endeavors, Inc.",2026-12-31,16,"Family Endeavors, Inc.2026-12-31"
+SC,KPR US LLC,2026-12-31,3,KPR US LLC2026-12-31
 NY,The Goodyear Tire and Rubber Company,2026-12-30,51,The Goodyear Tire and Rubber Company2026-12-30
 NJ,Dr. Praeger's Sensible Foods LLC,2026-12-30,168,Dr. Praeger's Sensible Foods LLC2026-12-30
 NY,Children's Home of Poughkeepsie,2026-12-28,39,Children's Home of Poughkeepsie2026-12-28
@@ -18,22 +18,22 @@ NY,"Bowery F&B, LLC",2026-12-21,28,"Bowery F&B, LLC2026-12-21"
 PA,Republic Amusements,2026-12-20,48,Republic Amusements2026-12-20
 NJ,Johnson & Johnson Services Inc,2026-12-18,88,Johnson & Johnson Services Inc2026-12-18
 NJ,"Headquarters Hotel Mgmt, LLC d/b/a Sheraton Atlantic City Convention Center Hotel",2026-12-15,91,"Headquarters Hotel Mgmt, LLC d/b/a Sheraton Atlantic City Convention Center Hotel2026-12-15"
-PA,"Powered by FTGU, LLC",2026-12-14,67,"Powered by FTGU, LLC2026-12-14"
 SC,Hudson-BW GSP JV,2026-12-14,68,Hudson-BW GSP JV2026-12-14
 NJ,"Banker Steel, a Division of Schuff Steel",2026-12-14,115,"Banker Steel, a Division of Schuff Steel2026-12-14"
+PA,"Powered by FTGU, LLC",2026-12-14,67,"Powered by FTGU, LLC2026-12-14"
 NY,"Acme Markets, Inc.",2026-12-10,38,"Acme Markets, Inc.2026-12-10"
 NY,"FreedomRoads, LLC.; CWI, LLC.; Meyer's RV Centers, LLC.",2026-12-08,28,"FreedomRoads, LLC.; CWI, LLC.; Meyer's RV Centers, LLC.2026-12-08"
 NJ,Optum,2026-12-07,57,Optum2026-12-07
 NY,"Great Jones Distillers, LLC",2026-12-07,26,"Great Jones Distillers, LLC2026-12-07"
 PA,Starbucks,2026-12-06,18,Starbucks2026-12-06
+MO,Unknown,2026-12-05,84,Unknown2026-12-05
 NY,"GU Markets, LLC.",2026-12-05,19,"GU Markets, LLC.2026-12-05"
 NY,"GU Markets, LLC.",2026-12-05,27,"GU Markets, LLC.2026-12-05"
-MO,Unknown,2026-12-05,84,Unknown2026-12-05
 PA,Pavilion at Bradford,2026-12-01,80,Pavilion at Bradford2026-12-01
 PA,"Ask Foods, LLC",2026-12-01,96,"Ask Foods, LLC2026-12-01"
 SC,"Grunt Style, LLC",2026-11-30,7,"Grunt Style, LLC2026-11-30"
-MO,Unknown,2026-11-30,3,Unknown2026-11-30
 MO,Unknown,2026-11-30,10,Unknown2026-11-30
+MO,Unknown,2026-11-30,3,Unknown2026-11-30
 NY,"InvaGen Pharmaceuticals, Inc.",2026-11-27,45,"InvaGen Pharmaceuticals, Inc.2026-11-27"
 NY,"InvaGen Pharmaceuticals, Inc.",2026-11-27,160,"InvaGen Pharmaceuticals, Inc.2026-11-27"
 NY,"KJ Quality Logistics, LLC.",2026-11-26,41,"KJ Quality Logistics, LLC.2026-11-26"
@@ -42,172 +42,173 @@ NJ,Cellares Corporation,2026-11-19,68,Cellares Corporation2026-11-19
 NJ,"Grocery Delivery E-Services USA, Inc DBA Hello Fresh",2026-11-17,374,"Grocery Delivery E-Services USA, Inc DBA Hello Fresh2026-11-17"
 MO,Unknown,2026-11-16,69,Unknown2026-11-16
 NY,"ThreeC Logistics, LLC.",2026-11-11,78,"ThreeC Logistics, LLC.2026-11-11"
+CA,"Wright Tree Service of the West, Inc. (270 N See Vee Ln)",2026-11-09,9,"Wright Tree Service of the West, Inc. (270 N See Vee Ln)2026-11-09"
 OK,"Dayton Parts, LLC dba Dorman Products",2026-11-09,N/A,"Dayton Parts, LLC dba Dorman Products2026-11-09"
+CA,"Wright Tree Service of the West, Inc. (8056 Evans Rd)",2026-11-09,19,"Wright Tree Service of the West, Inc. (8056 Evans Rd)2026-11-09"
 CA,"Wright Tree Service of the West, Inc. (430 Sherwin Creek Rd)",2026-11-09,12,"Wright Tree Service of the West, Inc. (430 Sherwin Creek Rd)2026-11-09"
 CA,"Wright Tree Service of the West, Inc. (13426 Avenue 232)",2026-11-09,77,"Wright Tree Service of the West, Inc. (13426 Avenue 232)2026-11-09"
-CA,"Wright Tree Service of the West, Inc. (270 N See Vee Ln)",2026-11-09,9,"Wright Tree Service of the West, Inc. (270 N See Vee Ln)2026-11-09"
-CA,"Wright Tree Service of the West, Inc. (8056 Evans Rd)",2026-11-09,19,"Wright Tree Service of the West, Inc. (8056 Evans Rd)2026-11-09"
-CA,"Wright Tree Service of the West, Inc. (32134 Auberry Rd)",2026-11-09,54,"Wright Tree Service of the West, Inc. (32134 Auberry Rd)2026-11-09"
 CA,"Wright Tree Service of the West, Inc. (4571 Lake Isabella Blvd)",2026-11-09,19,"Wright Tree Service of the West, Inc. (4571 Lake Isabella Blvd)2026-11-09"
+CA,"Wright Tree Service of the West, Inc. (32134 Auberry Rd)",2026-11-09,54,"Wright Tree Service of the West, Inc. (32134 Auberry Rd)2026-11-09"
+CA,"Blue Shield of CA - El Dorado Hills, Building B",2026-11-06,7,"Blue Shield of CA - El Dorado Hills, Building B2026-11-06"
+CA,Blue Shield of CA - Woodland Hills,2026-11-06,5,Blue Shield of CA - Woodland Hills2026-11-06
+CA,"Blue Shield of California - El Dorado Hills, Building C",2026-11-06,3,"Blue Shield of California - El Dorado Hills, Building C2026-11-06"
+AL,Children’s Place Distribution,2026-11-06,593,Children’s Place Distribution2026-11-06
+CA,Blue Shield of CA - Rancho Cordova,2026-11-06,5,Blue Shield of CA - Rancho Cordova2026-11-06
 CA,Blue Shield of CA - San Diego,2026-11-06,4,Blue Shield of CA - San Diego2026-11-06
 CA,Blue Shield of CA - Long Beach,2026-11-06,12,Blue Shield of CA - Long Beach2026-11-06
-CA,Blue Shield of CA - Lodi,2026-11-06,5,Blue Shield of CA - Lodi2026-11-06
-CA,Blue Shield of CA - Oakland,2026-11-06,13,Blue Shield of CA - Oakland2026-11-06
-CA,"Blue Shield of California - El Dorado Hills, Building C",2026-11-06,3,"Blue Shield of California - El Dorado Hills, Building C2026-11-06"
-CA,"Blue Shield of CA - El Dorado Hills, Building B",2026-11-06,7,"Blue Shield of CA - El Dorado Hills, Building B2026-11-06"
 CA,VCA Corporate Support Office,2026-11-06,36,VCA Corporate Support Office2026-11-06
-CA,Blue Shield of CA - Woodland Hills,2026-11-06,5,Blue Shield of CA - Woodland Hills2026-11-06
-CA,Blue Shield of CA - Rancho Cordova,2026-11-06,5,Blue Shield of CA - Rancho Cordova2026-11-06
+CA,Blue Shield of CA - Oakland,2026-11-06,13,Blue Shield of CA - Oakland2026-11-06
+CA,Blue Shield of CA - Lodi,2026-11-06,5,Blue Shield of CA - Lodi2026-11-06
 NE,"Alphia, Inc",2026-11-04,93,"Alphia, Inc2026-11-04"
-CA,"ServiceNow, Inc.",2026-11-04,25,"ServiceNow, Inc.2026-11-04"
-CA,"ServiceNow, Inc.",2026-11-04,37,"ServiceNow, Inc.2026-11-04"
+CA,"National Distribution Centers, LLC",2026-11-04,167,"National Distribution Centers, LLC2026-11-04"
 CA,"Eclipse Advantage, LLC",2026-11-04,35,"Eclipse Advantage, LLC2026-11-04"
 CA,"Ellison Institute, LLC dba Ellison Medical Institute",2026-11-04,88,"Ellison Institute, LLC dba Ellison Medical Institute2026-11-04"
 WA,Seattle Marriott Redmond,2026-11-04,N/A,Seattle Marriott Redmond2026-11-04
-CA,"National Distribution Centers, LLC",2026-11-04,167,"National Distribution Centers, LLC2026-11-04"
-CA,"Quince & Co, LLC",2026-11-03,34,"Quince & Co, LLC2026-11-03"
-IA,Cedar Valley Medical Specialist ,2026-11-03,N/A,Cedar Valley Medical Specialist 2026-11-03
-CA,AES Corporation,2026-11-03,13,AES Corporation2026-11-03
+CA,"ServiceNow, Inc.",2026-11-04,25,"ServiceNow, Inc.2026-11-04"
+CA,"ServiceNow, Inc.",2026-11-04,37,"ServiceNow, Inc.2026-11-04"
 CA,Chick-fil-A - Hollins Group LLC - La Palma,2026-11-03,24,Chick-fil-A - Hollins Group LLC - La Palma2026-11-03
-CA,Chick-fil-A - Hollins Group LLC - Orangethorpe,2026-11-03,14,Chick-fil-A - Hollins Group LLC - Orangethorpe2026-11-03
-TN,Del Mar Medical,2026-11-03,N/A,Del Mar Medical2026-11-03
+IA,Cedar Valley Medical Specialist ,2026-11-03,N/A,Cedar Valley Medical Specialist 2026-11-03
 CA,AES Corporation,2026-11-03,28,AES Corporation2026-11-03
 CA,City National Bank (350 S. Grand Ave.),2026-11-03,11,City National Bank (350 S. Grand Ave.)2026-11-03
 CA,City National Bank (555 S. Flower Street),2026-11-03,11,City National Bank (555 S. Flower Street)2026-11-03
-CA,"Crinetics Pharmaceuticals, Inc.",2026-11-03,78,"Crinetics Pharmaceuticals, Inc.2026-11-03"
 SC,The Westin Hilton Head Island Resort & Spa,2026-11-03,157,The Westin Hilton Head Island Resort & Spa2026-11-03
+TN,Del Mar Medical,2026-11-03,N/A,Del Mar Medical2026-11-03
+CA,AES Corporation,2026-11-03,13,AES Corporation2026-11-03
+CA,Chick-fil-A - Hollins Group LLC - Orangethorpe,2026-11-03,14,Chick-fil-A - Hollins Group LLC - Orangethorpe2026-11-03
+CA,"Crinetics Pharmaceuticals, Inc.",2026-11-03,78,"Crinetics Pharmaceuticals, Inc.2026-11-03"
+CA,"Quince & Co, LLC",2026-11-03,34,"Quince & Co, LLC2026-11-03"
 NY,Lumina Care Medical Staff,2026-11-03,135,Lumina Care Medical Staff2026-11-03
-CA,VCA Corporate Support Office,2026-11-02,18,VCA Corporate Support Office2026-11-02
-CA,Amazon,2026-11-02,94,Amazon2026-11-02
-CA,Chick-fil-A - Worthy Integrated Holdings LLC,2026-11-02,87,Chick-fil-A - Worthy Integrated Holdings LLC2026-11-02
 WA,Amazon,2026-11-02,N/A,Amazon2026-11-02
+CA,Chick-fil-A - Worthy Integrated Holdings LLC,2026-11-02,87,Chick-fil-A - Worthy Integrated Holdings LLC2026-11-02
 AL,International Automotive Components Group North America  Inc.,2026-11-02,83,International Automotive Components Group North America  Inc.2026-11-02
 CA,"Wedgewood Village Pharmacy, LLC",2026-11-02,71,"Wedgewood Village Pharmacy, LLC2026-11-02"
-SC,DP World,2026-10-31,205,DP World2026-10-31
-PA,"CJ Logistics America, LLC",2026-10-31,56,"CJ Logistics America, LLC2026-10-31"
+CA,VCA Corporate Support Office,2026-11-02,18,VCA Corporate Support Office2026-11-02
+CA,Amazon,2026-11-02,94,Amazon2026-11-02
 NJ,"Citibank, N.A.",2026-10-31,59,"Citibank, N.A.2026-10-31"
+SC,DP World,2026-10-31,205,DP World2026-10-31
 PA,Mountain Valley Golf Course,2026-10-31,111,Mountain Valley Golf Course2026-10-31
+PA,"CJ Logistics America, LLC",2026-10-31,56,"CJ Logistics America, LLC2026-10-31"
+WA,Alaska Airlines,2026-10-30,N/A,Alaska Airlines2026-10-30
+OR,LTGH - Morrison Long-Term Group Home,2026-10-30,N/A,LTGH - Morrison Long-Term Group Home2026-10-30
+UT,Point Designs,2026-10-30,8,Point Designs2026-10-30
+CA,"US Motor Works, LLC",2026-10-30,19,"US Motor Works, LLC2026-10-30"
 VA,General Dynamics Information Technology,2026-10-30,153,General Dynamics Information Technology2026-10-30
 VA,Haynes Furniture Company Inc.,2026-10-30,83,Haynes Furniture Company Inc.2026-10-30
-WA,Alaska Airlines,2026-10-30,N/A,Alaska Airlines2026-10-30
-CA,"Econolite Control Products, Inc.",2026-10-30,13,"Econolite Control Products, Inc.2026-10-30"
-CA,"Roundabout Entertainment, Inc.",2026-10-30,81,"Roundabout Entertainment, Inc.2026-10-30"
 OR,HS/PRS - Morrison Home Study and Post R,2026-10-30,N/A,HS/PRS - Morrison Home Study and Post R2026-10-30
-UT,Point Designs,2026-10-30,8,Point Designs2026-10-30
-OR,LTGH - Morrison Long-Term Group Home,2026-10-30,N/A,LTGH - Morrison Long-Term Group Home2026-10-30
+CA,Sapporo U.S.A.,2026-10-30,1,Sapporo U.S.A.2026-10-30
+CT,IDEX Health and Science LLC,2026-10-30,N/A,IDEX Health and Science LLC2026-10-30
+CA,"Roundabout Entertainment, Inc.",2026-10-30,81,"Roundabout Entertainment, Inc.2026-10-30"
+CA,"Econolite Control Products, Inc.",2026-10-30,13,"Econolite Control Products, Inc.2026-10-30"
 CA,Pacific Coast Grill Inc.,2026-10-30,119,Pacific Coast Grill Inc.2026-10-30
 CA,"Community Tree Service, LLC",2026-10-30,163,"Community Tree Service, LLC2026-10-30"
+CA,The Vons Companies Inc.,2026-10-30,78,The Vons Companies Inc.2026-10-30
 CA,"Renewable Solar, Inc.",2026-10-30,56,"Renewable Solar, Inc.2026-10-30"
 CA,iLEAD Lancaster,2026-10-30,119,iLEAD Lancaster2026-10-30
-CT,IDEX Health and Science LLC,2026-10-30,N/A,IDEX Health and Science LLC2026-10-30
-CA,The Vons Companies Inc.,2026-10-30,78,The Vons Companies Inc.2026-10-30
-CA,"US Motor Works, LLC",2026-10-30,19,"US Motor Works, LLC2026-10-30"
 CA,Danone USA PBC,2026-10-30,135,Danone USA PBC2026-10-30
-CA,Sapporo U.S.A.,2026-10-30,1,Sapporo U.S.A.2026-10-30
-VA,Endeavors,2026-10-29,20,Endeavors2026-10-29
-CA,Davey Tree Surgery Company (Remote),2026-10-29,57,Davey Tree Surgery Company (Remote)2026-10-29
-CA,Endeavors,2026-10-29,31,Endeavors2026-10-29
-IA,"Family Endeavors, Inc ",2026-10-29,N/A,"Family Endeavors, Inc 2026-10-29"
-IA,Collins Aerospace ,2026-10-29,N/A,Collins Aerospace 2026-10-29
-WA,Comcast,2026-10-29,N/A,Comcast2026-10-29
-CA,"Avidity Biosciences, Inc.",2026-10-29,40,"Avidity Biosciences, Inc.2026-10-29"
-CA,AEG Management Oakland LLC,2026-10-29,1605,AEG Management Oakland LLC2026-10-29
-CA,Davey Tree Surgery Company (2505 N Palm Drive),2026-10-29,64,Davey Tree Surgery Company (2505 N Palm Drive)2026-10-29
-CA,Davey Tree Surgery Company (8188 Katella Avenue),2026-10-29,37,Davey Tree Surgery Company (8188 Katella Avenue)2026-10-29
-CA,Davey Tree Surgery Company (1847 144th Street),2026-10-29,12,Davey Tree Surgery Company (1847 144th Street)2026-10-29
-CA,Davey Tree Surgery Company (E/O Crittenden Lane),2026-10-29,19,Davey Tree Surgery Company (E/O Crittenden Lane)2026-10-29
-AL,West Fraser Huguley OSB Lumber Mill,2026-10-29,123,West Fraser Huguley OSB Lumber Mill2026-10-29
-OR,Oregon - Remote Employee(s),2026-10-29,N/A,Oregon - Remote Employee(s)2026-10-29
-OR,"Endeavors, Inc.",2026-10-29,N/A,"Endeavors, Inc.2026-10-29"
-KS,"Family Endeavors, Inc.",2026-10-29,N/A,"Family Endeavors, Inc.2026-10-29"
 IN,Dexter Axle,2026-10-29,51,Dexter Axle2026-10-29
+VA,Endeavors,2026-10-29,20,Endeavors2026-10-29
+CA,AEG Management Oakland LLC,2026-10-29,1605,AEG Management Oakland LLC2026-10-29
+IA,"Family Endeavors, Inc ",2026-10-29,N/A,"Family Endeavors, Inc 2026-10-29"
+CA,"Avidity Biosciences, Inc.",2026-10-29,40,"Avidity Biosciences, Inc.2026-10-29"
+WA,Comcast,2026-10-29,N/A,Comcast2026-10-29
+IA,Collins Aerospace ,2026-10-29,N/A,Collins Aerospace 2026-10-29
+OR,"Endeavors, Inc.",2026-10-29,N/A,"Endeavors, Inc.2026-10-29"
+CA,Endeavors,2026-10-29,31,Endeavors2026-10-29
 CA,Davey Tree Surgery (5843 Graham Hill Road),2026-10-29,64,Davey Tree Surgery (5843 Graham Hill Road)2026-10-29
-CA,Davey Tree Surgery Company (132 Roache Road),2026-10-29,22,Davey Tree Surgery Company (132 Roache Road)2026-10-29
-CA,Davey Tree Surgery Company (R/O 6 Church Street),2026-10-29,20,Davey Tree Surgery Company (R/O 6 Church Street)2026-10-29
+KS,"Family Endeavors, Inc.",2026-10-29,3,"Family Endeavors, Inc.2026-10-29"
+CA,Davey Tree Surgery Company (8188 Katella Avenue),2026-10-29,37,Davey Tree Surgery Company (8188 Katella Avenue)2026-10-29
 CA,Davey Tree Surgery Company (244 Hall Road),2026-10-29,34,Davey Tree Surgery Company (244 Hall Road)2026-10-29
-CA,Comcast,2026-10-29,82,Comcast2026-10-29
-CA,"Worldwide Flight Services, Inc.",2026-10-29,59,"Worldwide Flight Services, Inc.2026-10-29"
 CA,Davey Tree Surgery Company (12694 Los Nietos Road),2026-10-29,39,Davey Tree Surgery Company (12694 Los Nietos Road)2026-10-29
+CA,Davey Tree Surgery Company (1847 144th Street),2026-10-29,12,Davey Tree Surgery Company (1847 144th Street)2026-10-29
+CA,Davey Tree Surgery Company (2505 N Palm Drive),2026-10-29,64,Davey Tree Surgery Company (2505 N Palm Drive)2026-10-29
+CA,"Worldwide Flight Services, Inc.",2026-10-29,59,"Worldwide Flight Services, Inc.2026-10-29"
 CA,RTX,2026-10-29,14,RTX2026-10-29
-WA,NIC Global Manufacturing Solutions,2026-10-28,N/A,NIC Global Manufacturing Solutions2026-10-28
-WA,Double M Orchards,2026-10-28,N/A,Double M Orchards2026-10-28
-CA,Raley's,2026-10-28,40,Raley's2026-10-28
+CA,Davey Tree Surgery Company (R/O 6 Church Street),2026-10-29,20,Davey Tree Surgery Company (R/O 6 Church Street)2026-10-29
+CA,Davey Tree Surgery Company (E/O Crittenden Lane),2026-10-29,19,Davey Tree Surgery Company (E/O Crittenden Lane)2026-10-29
+CA,Davey Tree Surgery Company (Remote),2026-10-29,57,Davey Tree Surgery Company (Remote)2026-10-29
+OR,Oregon - Remote Employee(s),2026-10-29,N/A,Oregon - Remote Employee(s)2026-10-29
+AL,West Fraser Huguley OSB Lumber Mill,2026-10-29,123,West Fraser Huguley OSB Lumber Mill2026-10-29
+CA,Davey Tree Surgery Company (132 Roache Road),2026-10-29,22,Davey Tree Surgery Company (132 Roache Road)2026-10-29
+CA,Comcast,2026-10-29,82,Comcast2026-10-29
 CA,Cepheid (B1),2026-10-28,5,Cepheid (B1)2026-10-28
 CA,Cepheid (B4),2026-10-28,23,Cepheid (B4)2026-10-28
-NY,"Hudson Valley Fish Farm, Inc.",2026-10-28,47,"Hudson Valley Fish Farm, Inc.2026-10-28"
+CA,Raley's,2026-10-28,40,Raley's2026-10-28
 CA,Cepheid (B5),2026-10-28,2,Cepheid (B5)2026-10-28
-CA,Raley's,2026-10-28,3,Raley's2026-10-28
 CA,Cepheid (Remote),2026-10-28,5,Cepheid (Remote)2026-10-28
+CA,Raley's,2026-10-28,3,Raley's2026-10-28
+WA,NIC Global Manufacturing Solutions,2026-10-28,N/A,NIC Global Manufacturing Solutions2026-10-28
+WA,Double M Orchards,2026-10-28,N/A,Double M Orchards2026-10-28
 CA,Cepheid (B7+),2026-10-28,1,Cepheid (B7+)2026-10-28
 CA,Cepheid (B7),2026-10-28,25,Cepheid (B7)2026-10-28
-IN,"MPL Intermediate, LLC",2026-10-28,60,"MPL Intermediate, LLC2026-10-28"
-VA,Wells Fargo,2026-10-28,87,Wells Fargo2026-10-28
-VA,Buitoni,2026-10-28,251,Buitoni2026-10-28
 CA,"Dropbox, Inc.",2026-10-28,57,"Dropbox, Inc.2026-10-28"
 CA,24 Hr Homecare,2026-10-28,14,24 Hr Homecare2026-10-28
 CA,Cepheid (B6),2026-10-28,6,Cepheid (B6)2026-10-28
+VA,Wells Fargo,2026-10-28,87,Wells Fargo2026-10-28
+VA,Buitoni,2026-10-28,251,Buitoni2026-10-28
+IN,"MPL Intermediate, LLC",2026-10-28,60,"MPL Intermediate, LLC2026-10-28"
+NY,"Hudson Valley Fish Farm, Inc.",2026-10-28,47,"Hudson Valley Fish Farm, Inc.2026-10-28"
 IA,Wells Fargo,2026-10-27,N/A,Wells Fargo2026-10-27
-CA,JVS SoCal,2026-10-27,63,JVS SoCal2026-10-27
-CA,JVS SoCal,2026-10-27,33,JVS SoCal2026-10-27
-CA,JVS SoCal,2026-10-27,5,JVS SoCal2026-10-27
-CA,JVS SoCal,2026-10-27,5,JVS SoCal2026-10-27
-CA,"Frontapp, Inc.",2026-10-27,53,"Frontapp, Inc.2026-10-27"
 CA,"Walt Disney Parks & Resorts US, Inc.",2026-10-27,159,"Walt Disney Parks & Resorts US, Inc.2026-10-27"
 CA,"Artiva Biotherapeutics, Inc.",2026-10-27,131,"Artiva Biotherapeutics, Inc.2026-10-27"
 WA,Henry Bosma Orchards,2026-10-27,N/A,Henry Bosma Orchards2026-10-27
-CA,Levy,2026-10-26,181,Levy2026-10-26
+CA,JVS SoCal,2026-10-27,5,JVS SoCal2026-10-27
+CA,JVS SoCal,2026-10-27,5,JVS SoCal2026-10-27
+CA,JVS SoCal,2026-10-27,33,JVS SoCal2026-10-27
+CA,JVS SoCal,2026-10-27,63,JVS SoCal2026-10-27
+CA,"Frontapp, Inc.",2026-10-27,53,"Frontapp, Inc.2026-10-27"
+IA,"CDS Global, Inc ",2026-10-26,N/A,"CDS Global, Inc 2026-10-26"
 CA,"Welcome Market, Inc. (99 Ranch Market)",2026-10-26,54,"Welcome Market, Inc. (99 Ranch Market)2026-10-26"
 CA,"Tawa, Inc. dba 99 Ranch Market",2026-10-26,49,"Tawa, Inc. dba 99 Ranch Market2026-10-26"
-AL,Acme Brick Co,2026-10-26,53,Acme Brick Co2026-10-26
-IA,"CDS Global, Inc ",2026-10-26,N/A,"CDS Global, Inc 2026-10-26"
 PA,"Eos Energy Storage, LLC",2026-10-26,251,"Eos Energy Storage, LLC2026-10-26"
 CA,"Tawa, Inc. dba 99 Ranch Market",2026-10-26,54,"Tawa, Inc. dba 99 Ranch Market2026-10-26"
+AL,Acme Brick Co,2026-10-26,53,Acme Brick Co2026-10-26
+CA,Levy,2026-10-26,181,Levy2026-10-26
 CA,Everidge Inc.,2026-10-25,90,Everidge Inc.2026-10-25
 CA,"Eterna Management, LLC",2026-10-23,124,"Eterna Management, LLC2026-10-23"
-VA,DCS Corporation,2026-10-23,65,DCS Corporation2026-10-23
 WA,HMS Host,2026-10-23,N/A,HMS Host2026-10-23
-CA,Eterna Management,2026-10-23,6,Eterna Management2026-10-23
+VA,DCS Corporation,2026-10-23,65,DCS Corporation2026-10-23
 CA,"Conduent State & Local Solutions, Inc.",2026-10-23,64,"Conduent State & Local Solutions, Inc.2026-10-23"
+CA,Eterna Management,2026-10-23,6,Eterna Management2026-10-23
 CA,The Madrona,2026-10-23,77,The Madrona2026-10-23
-CA,Intel Corporation,2026-10-22,67,Intel Corporation2026-10-22
 OK,OU MEDICINE INC C/O THOMAS & COMPANY,2026-10-22,N/A,OU MEDICINE INC C/O THOMAS & COMPANY2026-10-22
 CA,Georg Fischer Signet LLC,2026-10-22,107,Georg Fischer Signet LLC2026-10-22
+CA,Intel Corporation,2026-10-22,67,Intel Corporation2026-10-22
 CA,eBay Inc.,2026-10-21,229,eBay Inc.2026-10-21
 CA,Ojai Valley Inn,2026-10-21,751,Ojai Valley Inn2026-10-21
 CA,"DesigneRx Pharmaceuticals, Inc.",2026-10-21,6,"DesigneRx Pharmaceuticals, Inc.2026-10-21"
 WA,DSquared Hospitality Company dba Sidekicks Pub,2026-10-21,N/A,DSquared Hospitality Company dba Sidekicks Pub2026-10-21
-OR,Hood River - Site,2026-10-20,N/A,Hood River - Site2026-10-20
-OR,Portland - Site,2026-10-20,N/A,Portland - Site2026-10-20
-OR,Bend - Site,2026-10-20,N/A,Bend - Site2026-10-20
-VT,Vermont Information Processing,2026-10-20,66,Vermont Information Processing2026-10-20
-OR,Salem - Site,2026-10-20,N/A,Salem - Site2026-10-20
-AL,The Andersons  Inc.,2026-10-20,64,The Andersons  Inc.2026-10-20
-OR,Medford - Site,2026-10-20,N/A,Medford - Site2026-10-20
-TN,General Jackson Showboat,2026-10-20,N/A,General Jackson Showboat2026-10-20
-OR,Pacific Source,2026-10-20,N/A,Pacific Source2026-10-20
-TN,Akzo Nobel,2026-10-20,N/A,Akzo Nobel2026-10-20
-TN,Pepsi Bottling Group,2026-10-20,N/A,Pepsi Bottling Group2026-10-20
 CA,Randstad (Dreyer's Grand Ice Cream),2026-10-20,91,Randstad (Dreyer's Grand Ice Cream)2026-10-20
-CA,"Safeway, Inc.",2026-10-20,92,"Safeway, Inc.2026-10-20"
 CA,Dreyer's Grand Ice Cream,2026-10-20,380,Dreyer's Grand Ice Cream2026-10-20
-CA,Dreyer's Grand Ice Cream,2026-10-19,448,Dreyer's Grand Ice Cream2026-10-19
-MO,Unknown,2026-10-19,61,Unknown2026-10-19
-CA,Dreyer's Grand Ice Cream,2026-10-19,715,Dreyer's Grand Ice Cream2026-10-19
-CA,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",2026-10-19,1,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.2026-10-19"
-AL,First Transit  Inc.,2026-10-19,88,First Transit  Inc.2026-10-19
-CA,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",2026-10-19,1,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.2026-10-19"
+AL,The Andersons  Inc.,2026-10-20,64,The Andersons  Inc.2026-10-20
+TN,Akzo Nobel,2026-10-20,N/A,Akzo Nobel2026-10-20
+CA,"Safeway, Inc.",2026-10-20,92,"Safeway, Inc.2026-10-20"
+TN,General Jackson Showboat,2026-10-20,N/A,General Jackson Showboat2026-10-20
+VT,Vermont Information Processing,2026-10-20,N/A,Vermont Information Processing2026-10-20
+OR,Hood River - Site,2026-10-20,N/A,Hood River - Site2026-10-20
+TN,Pepsi Bottling Group,2026-10-20,N/A,Pepsi Bottling Group2026-10-20
+OR,Pacific Source,2026-10-20,N/A,Pacific Source2026-10-20
+OR,Bend - Site,2026-10-20,N/A,Bend - Site2026-10-20
+OR,Portland - Site,2026-10-20,N/A,Portland - Site2026-10-20
+OR,Salem - Site,2026-10-20,N/A,Salem - Site2026-10-20
+OR,Medford - Site,2026-10-20,N/A,Medford - Site2026-10-20
+CA,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (99 S. Oakland Ave.)",2026-10-19,1,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (99 S. Oakland Ave.)2026-10-19"
 CA,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (1800 Harrison St.)",2026-10-19,1,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (1800 Harrison St.)2026-10-19"
 CA,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (One Kaiser Plaza)",2026-10-19,5,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (One Kaiser Plaza)2026-10-19"
 CA,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (75 N. Fair Oaks Ave.)",2026-10-19,1,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (75 N. Fair Oaks Ave.)2026-10-19"
-CA,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (99 S. Oakland Ave.)",2026-10-19,1,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc. (99 S. Oakland Ave.)2026-10-19"
-CA,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",2026-10-19,1,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.2026-10-19"
+CA,Dreyer's Grand Ice Cream,2026-10-19,448,Dreyer's Grand Ice Cream2026-10-19
 AL,DAL-TILE LLC,2026-10-19,144,DAL-TILE LLC2026-10-19
+CA,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",2026-10-19,1,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.2026-10-19"
+MO,Unknown,2026-10-19,61,Unknown2026-10-19
+CA,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",2026-10-19,1,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.2026-10-19"
+CA,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",2026-10-19,1,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.2026-10-19"
+CA,Dreyer's Grand Ice Cream,2026-10-19,715,Dreyer's Grand Ice Cream2026-10-19
+AL,First Transit  Inc.,2026-10-19,88,First Transit  Inc.2026-10-19
 SC,PepsiCo Beverages Sales LLC,2026-10-18,105,PepsiCo Beverages Sales LLC2026-10-18
+NJ,"Mars WrigleyConfectionary US, LLC",2026-10-16,307,"Mars WrigleyConfectionary US, LLC2026-10-16"
+NJ,Verizon Corp Resources Group LLC,2026-10-16,282,Verizon Corp Resources Group LLC2026-10-16
 CA,"Netflix, Inc.",2026-10-16,267,"Netflix, Inc.2026-10-16"
 CA,"Netflix, Inc.",2026-10-16,227,"Netflix, Inc.2026-10-16"
-NJ,"Mars WrigleyConfectionary US, LLC",2026-10-16,307,"Mars WrigleyConfectionary US, LLC2026-10-16"
 PA,"United Natural Foods, Inc. (NFI)",2026-10-16,48,"United Natural Foods, Inc. (NFI)2026-10-16"
-NJ,Verizon Corp Resources Group LLC,2026-10-16,282,Verizon Corp Resources Group LLC2026-10-16
 CA,Fender Musical Instruments Corporation,2026-10-15,533,Fender Musical Instruments Corporation2026-10-15
 CA,Formagrid Inc. dba Airtable,2026-10-15,190,Formagrid Inc. dba Airtable2026-10-15
 CA,Silverado Senior Living Managment Inc.,2026-10-14,7,Silverado Senior Living Managment Inc.2026-10-14
@@ -418,7 +419,7 @@ NY,"Resideo, LLC. D/B/A ADI",2026-09-15,55,"Resideo, LLC. D/B/A ADI2026-09-15"
 CA,Quixote Studio Services - North Valley Campus A,2026-09-15,24,Quixote Studio Services - North Valley Campus A2026-09-15
 CA,Quixote Studio Services - Sylmar South,2026-09-15,3,Quixote Studio Services - Sylmar South2026-09-15
 VA,Bechtel Power Corporation ,2026-09-15,200,Bechtel Power Corporation 2026-09-15
-AZ,Farmers Investment Co.,2026-09-15,N/A,Farmers Investment Co.2026-09-15
+AZ,Farmers Investment Co.,2026-09-15,10,Farmers Investment Co.2026-09-15
 CA,Quixote Studio Services - North Valley,2026-09-15,29,Quixote Studio Services - North Valley2026-09-15
 CA,Quixote Studio Services - Sylmar North,2026-09-15,1,Quixote Studio Services - Sylmar North2026-09-15
 WA,Blue Cascade Orchards,2026-09-14,N/A,Blue Cascade Orchards2026-09-14
@@ -438,7 +439,7 @@ CA,"Fuji Food Products, Inc.",2026-09-10,35,"Fuji Food Products, Inc.2026-09-10"
 CA,Sapporo U.S.A. (2865 Executive Place),2026-09-09,6,Sapporo U.S.A. (2865 Executive Place)2026-09-09
 CA,University of Southern California (1150 S. Olive Street),2026-09-09,5,University of Southern California (1150 S. Olive Street)2026-09-09
 WA,"Cascade View Fruit & Cold Storage, LLC",2026-09-09,N/A,"Cascade View Fruit & Cold Storage, LLC2026-09-09"
-ME,Count & Crush LLC,2026-09-09,54,Count & Crush LLC2026-09-09
+ME,Count & Crush LLC,2026-09-09,N/A,Count & Crush LLC2026-09-09
 CA,Sapporo U.S.A. (1999 Citracado Parkway),2026-09-09,200,Sapporo U.S.A. (1999 Citracado Parkway)2026-09-09
 CA,Shell Catalyst & Technologies,2026-09-09,64,Shell Catalyst & Technologies2026-09-09
 CA,University of Southern California (1042 Downey Way),2026-09-09,7,University of Southern California (1042 Downey Way)2026-09-09
@@ -694,8 +695,8 @@ CA,"Eclipse Advantage, LLC",2026-08-05,18,"Eclipse Advantage, LLC2026-08-05"
 WA,"Salesforce, Inc.",2026-08-05,N/A,"Salesforce, Inc.2026-08-05"
 TN,TikTok USDS JV,2026-08-05,N/A,TikTok USDS JV2026-08-05
 CA,"Salesforce, Inc.",2026-08-05,74,"Salesforce, Inc.2026-08-05"
-ME,"Host International, Inc.",2026-08-04,102,"Host International, Inc.2026-08-04"
-AZ,Essendant,2026-08-04,N/A,Essendant2026-08-04
+ME,"Host International, Inc.",2026-08-04,N/A,"Host International, Inc.2026-08-04"
+AZ,Essendant,2026-08-04,53,Essendant2026-08-04
 AL,FMC Corporation,2026-08-04,41,FMC Corporation2026-08-04
 AL,Biocryst Pharmaceuticals Inc,2026-08-04,47,Biocryst Pharmaceuticals Inc2026-08-04
 TN,Wellpath,2026-08-04,N/A,Wellpath2026-08-04
@@ -1070,7 +1071,7 @@ CA,"Cisco Systems, Inc.",2026-06-16,154,"Cisco Systems, Inc.2026-06-16"
 CA,"Robinhood Markets, Inc.",2026-06-16,63,"Robinhood Markets, Inc.2026-06-16"
 CA,"Cisco Systems, Inc.",2026-06-16,81,"Cisco Systems, Inc.2026-06-16"
 CA,"Cisco Systems, Inc.",2026-06-16,236,"Cisco Systems, Inc.2026-06-16"
-AZ,"Leona Arizona Employment Group, Inc.",2026-06-16,66,"Leona Arizona Employment Group, Inc.2026-06-16"
+AZ,"Leona Arizona Employment Group, Inc.",2026-06-16,N/A,"Leona Arizona Employment Group, Inc.2026-06-16"
 TN,Pilgrim's Pride Corporation,2026-06-16,N/A,Pilgrim's Pride Corporation2026-06-16
 NY,NeuLion USA LLC,2026-06-15,7,NeuLion USA LLC2026-06-15
 TN,"CACI, Inc.",2026-06-15,N/A,"CACI, Inc.2026-06-15"
@@ -1229,15 +1230,15 @@ CA,Morgan Advance Ceramics Inc.,2026-06-05,96,Morgan Advance Ceramics Inc.2026-0
 CA,Blue Diamond Growers,2026-06-05,40,Blue Diamond Growers2026-06-05
 AZ,SMBC MANUBANK,2026-06-04,12,SMBC MANUBANK2026-06-04
 IA,Whirlpool Corporation,2026-06-04,N/A,Whirlpool Corporation2026-06-04
-VA,SMBC Manubank,2026-06-04,6,SMBC Manubank2026-06-04
 WA,SMBC Manubank,2026-06-04,N/A,SMBC Manubank2026-06-04
+VA,SMBC Manubank,2026-06-04,6,SMBC Manubank2026-06-04
 CA,Highlands Community Charter and Technical Schools (1111 Howe Ave),2026-06-03,43,Highlands Community Charter and Technical Schools (1111 Howe Ave)2026-06-03
 CA,Highlands Community Charter and Technical Schools (2520 33rd Street),2026-06-03,1,Highlands Community Charter and Technical Schools (2520 33rd Street)2026-06-03
 CA,Highlands Community Charter and Technical Schools (901 Arden Way),2026-06-03,1,Highlands Community Charter and Technical Schools (901 Arden Way)2026-06-03
 CA,Highlands Community Charter and Technical Schools (800 Todhunter Ave),2026-06-03,5,Highlands Community Charter and Technical Schools (800 Todhunter Ave)2026-06-03
 CA,Highlands Community Charter and Technical Schools (8180 Industrial Parkway),2026-06-03,1,Highlands Community Charter and Technical Schools (8180 Industrial Parkway)2026-06-03
 CA,Highlands Community Charter and Technical Schools (3727 Marconi Ave),2026-06-03,10,Highlands Community Charter and Technical Schools (3727 Marconi Ave)2026-06-03
-CA,Highlands Community Charter and Technical Schools (7817 Old Auburn Road),2026-06-03,1,Highlands Community Charter and Technical Schools (7817 Old Auburn Road)2026-06-03
+CA,Highlands Community Charter and Technical Schools (4541 College Oak Drive),2026-06-03,1,Highlands Community Charter and Technical Schools (4541 College Oak Drive)2026-06-03
 CA,Highlands Community Charter and Technical Schools (5655 Hillsdale Blvd),2026-06-03,5,Highlands Community Charter and Technical Schools (5655 Hillsdale Blvd)2026-06-03
 CA,Highlands Community Charter and Technical Schools (3301 37th Ave),2026-06-03,2,Highlands Community Charter and Technical Schools (3301 37th Ave)2026-06-03
 CA,"Quizlet, Inc.",2026-06-03,79,"Quizlet, Inc.2026-06-03"
@@ -1246,7 +1247,7 @@ CA,"St. Vincent de Paul Society of Lane County, Inc.",2026-06-03,8,"St. Vincent 
 CA,"Uber Technologies, Inc. (Remote)",2026-06-03,5,"Uber Technologies, Inc. (Remote)2026-06-03"
 CA,"Uber Technologies, Inc. (1725 3rd St.)",2026-06-03,22,"Uber Technologies, Inc. (1725 3rd St.)2026-06-03"
 CA,Highlands Community Charter and Technical Schools (5961 Franklin Blvd),2026-06-03,9,Highlands Community Charter and Technical Schools (5961 Franklin Blvd)2026-06-03
-CA,Highlands Community Charter and Technical Schools (4541 College Oak Drive),2026-06-03,1,Highlands Community Charter and Technical Schools (4541 College Oak Drive)2026-06-03
+CA,Highlands Community Charter and Technical Schools (7817 Old Auburn Road),2026-06-03,1,Highlands Community Charter and Technical Schools (7817 Old Auburn Road)2026-06-03
 CA,"Off Duty Officers, Inc. (3333 National Ave.)",2026-06-02,2,"Off Duty Officers, Inc. (3333 National Ave.)2026-06-02"
 CA,"Off Duty Officers, Inc. (4058 Willows Rd.)",2026-06-02,1,"Off Duty Officers, Inc. (4058 Willows Rd.)2026-06-02"
 CA,"Off Duty Officers, Inc. (3477 E. Gage Ave.)",2026-06-02,2,"Off Duty Officers, Inc. (3477 E. Gage Ave.)2026-06-02"
@@ -1269,7 +1270,7 @@ CA,"Off Duty Officers, Inc. (10615 Tierrasanta Blvd.)",2026-06-02,2,"Off Duty Of
 MO,Unknown,2026-06-02,6,Unknown2026-06-02
 ME,SP+ Parking,2026-06-02,100,SP+ Parking2026-06-02
 IN,Noble Inc,2026-06-02,85,Noble Inc2026-06-02
-AZ,Federal Express Corporation,2026-06-02,N/A,Federal Express Corporation2026-06-02
+AZ,Federal Express Corporation,2026-06-02,101,Federal Express Corporation2026-06-02
 CA,"Dwyer Instruments, LLC",2026-06-02,53,"Dwyer Instruments, LLC2026-06-02"
 CA,"Off Duty Officers, Inc. (375 M St.)",2026-06-02,1,"Off Duty Officers, Inc. (375 M St.)2026-06-02"
 CA,"Off Duty Officers, Inc. (13533 Seal Beach Blvd.)",2026-06-02,8,"Off Duty Officers, Inc. (13533 Seal Beach Blvd.)2026-06-02"
@@ -1327,7 +1328,7 @@ MAITLAND, FL, 327512026-05-29"
 CA,Blue Shield of California,2026-05-29,3,Blue Shield of California2026-05-29
 NY,"IPIC Theaters, LLC.",2026-05-28,58,"IPIC Theaters, LLC.2026-05-28"
 NJ,IPIC Theaters,2026-05-28,97,IPIC Theaters2026-05-28
-VT,Franklin Foods,2026-05-28,99,Franklin Foods2026-05-28
+VT,Franklin Foods,2026-05-28,N/A,Franklin Foods2026-05-28
 CA,Acumen LLC & The SPHERE,2026-05-28,11,Acumen LLC & The SPHERE2026-05-28
 CA,Acumen LLC & The SPHERE,2026-05-28,58,Acumen LLC & The SPHERE2026-05-28
 AZ,Honeywell AZ0Y,2026-05-27,60,Honeywell AZ0Y2026-05-27
@@ -1455,7 +1456,7 @@ CA,LinkedIn Corporation (Home Office),2026-05-15,66,LinkedIn Corporation (Home O
 IA,UnityPoint Health ,2026-05-14,N/A,UnityPoint Health 2026-05-14
 NJ,Scudetto Logistics,2026-05-14,120,Scudetto Logistics2026-05-14
 TN,Tsubaki Nakashima,2026-05-14,N/A,Tsubaki Nakashima2026-05-14
-AZ,"SDH Education West, LLC",2026-05-14,N/A,"SDH Education West, LLC2026-05-14"
+AZ,"SDH Education West, LLC",2026-05-14,489,"SDH Education West, LLC2026-05-14"
 NY,"Main Street Sports Group, LLC",2026-05-14,66,"Main Street Sports Group, LLC2026-05-14"
 TN,"Greenbean Ventures, LLC",2026-05-14,N/A,"Greenbean Ventures, LLC2026-05-14"
 OR,Coburg Facility,2026-05-13,N/A,Coburg Facility2026-05-13
@@ -1829,7 +1830,7 @@ ORLANDO, FL, 32801",2026-04-17,50,"Iron Galaxy Studios, LLC
 
 ORLANDO, FL, 328012026-04-17"
 CA,YMCA Liberty Elementary School,2026-04-17,9,YMCA Liberty Elementary School2026-04-17
-AZ,DLH Solutions,2026-04-17,N/A,DLH Solutions2026-04-17
+AZ,DLH Solutions,2026-04-17,312,DLH Solutions2026-04-17
 CA,YMCA Arellanes Junior High,2026-04-17,4,YMCA Arellanes Junior High2026-04-17
 CA,YMCA Bonita Elementary School,2026-04-17,6,YMCA Bonita Elementary School2026-04-17
 CA,YMCA Robert Bruce Elementary School,2026-04-17,8,YMCA Robert Bruce Elementary School2026-04-17
@@ -1855,7 +1856,7 @@ CA,Snap Inc.,2026-04-15,247,Snap Inc.2026-04-15
 TN,Pave It Forward Logistics,2026-04-15,N/A,Pave It Forward Logistics2026-04-15
 CA,The Primary School,2026-04-15,147,The Primary School2026-04-15
 AL,Serta Mattress Company,2026-04-15,102,Serta Mattress Company2026-04-15
-AZ,"Marsden Services, LLC",2026-04-15,85,"Marsden Services, LLC2026-04-15"
+AZ,"Marsden Services, LLC",2026-04-15,N/A,"Marsden Services, LLC2026-04-15"
 MO,Unknown,2026-04-14,25,Unknown2026-04-14
 NY,"Citigroup Global Markets, Inc.",2026-04-14,58,"Citigroup Global Markets, Inc.2026-04-14"
 IN,RESRG Automotive,2026-04-14,266,RESRG Automotive2026-04-14
@@ -1942,7 +1943,7 @@ CA,Qualcomm Incorporated (5745 Pacific Center Blvd.),2026-04-08,2,Qualcomm Incor
 CA,Qualcomm Incorporated (10185 McKellar Ct.),2026-04-08,1,Qualcomm Incorporated (10185 McKellar Ct.)2026-04-08
 CA,Qualcomm Incorporated (10445 Pacific Center Court),2026-04-08,2,Qualcomm Incorporated (10445 Pacific Center Court)2026-04-08
 CA,Sony Pictures Entertainment Inc.,2026-04-08,111,Sony Pictures Entertainment Inc.2026-04-08
-AZ,"Catholic Community Services of Southern Arizona, Inc.",2026-04-08,N/A,"Catholic Community Services of Southern Arizona, Inc.2026-04-08"
+AZ,"Catholic Community Services of Southern Arizona, Inc.",2026-04-08,74,"Catholic Community Services of Southern Arizona, Inc.2026-04-08"
 CA,Sony Pictures Entertainment Inc.,2026-04-08,6,Sony Pictures Entertainment Inc.2026-04-08
 CA,Sony Pictures Entertainment Inc.,2026-04-08,7,Sony Pictures Entertainment Inc.2026-04-08
 FL,"Bahama Breeze 
@@ -2632,7 +2633,7 @@ CA,LPL Financial LLC,2026-02-13,72,LPL Financial LLC2026-02-13
 CA,Topanga Social Manager. LLC - Topanga Social Food Hall,2026-02-13,131,Topanga Social Manager. LLC - Topanga Social Food Hall2026-02-13
 CA,Med-Laser Surgical Center LLC,2026-02-13,22,Med-Laser Surgical Center LLC2026-02-13
 CA,De La Pena Eye Clinic - DLP Santa Ana,2026-02-13,6,De La Pena Eye Clinic - DLP Santa Ana2026-02-13
-KS,Lowe's,2026-02-13,N/A,Lowe's2026-02-13
+KS,Lowe's,2026-02-13,3,Lowe's2026-02-13
 CA,De La Pena Eye Clinic - DLP Commerce,2026-02-13,38,De La Pena Eye Clinic - DLP Commerce2026-02-13
 CA,De La Pena Eye Clinic - DLP El Monte,2026-02-13,5,De La Pena Eye Clinic - DLP El Monte2026-02-13
 NY,"Glossier, Inc.",2026-02-13,41,"Glossier, Inc.2026-02-13"
@@ -2946,7 +2947,7 @@ MO,Unknown,2026-01-30,93,Unknown2026-01-30
 SC,"SC Industrial Holdings, LLC",2026-01-30,78,"SC Industrial Holdings, LLC2026-01-30"
 OK,Bright Horizons,2026-01-30,N/A,Bright Horizons2026-01-30
 IN,National Distribution Centers,2026-01-30,53,National Distribution Centers2026-01-30
-KS,"Vornado Air, LLC.",2026-01-30,N/A,"Vornado Air, LLC.2026-01-30"
+KS,"Vornado Air, LLC.",2026-01-30,72,"Vornado Air, LLC.2026-01-30"
 CA,"Chan Zuckerberg Initiative, LLC",2026-01-29,38,"Chan Zuckerberg Initiative, LLC2026-01-29"
 CA,Shell Recharge Solutions,2026-01-29,29,Shell Recharge Solutions2026-01-29
 CA,Amazon (LAX10),2026-01-29,2,Amazon (LAX10)2026-01-29
