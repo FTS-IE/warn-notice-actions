@@ -87,12 +87,12 @@ VA,Huntington Ingalls Mission Technologies ,2026-11-13,58,Huntington Ingalls Mis
 CA,Qualcomm Incorporated (3135 Kifer Road),2026-11-13,15,Qualcomm Incorporated (3135 Kifer Road)2026-11-13
 CA,"Gainsight, Inc.",2026-11-12,14,"Gainsight, Inc.2026-11-12"
 CA,Corteva Agriscience LLC,2026-11-12,4,Corteva Agriscience LLC2026-11-12
-DE,AstraZeneca,2026-11-12,626,AstraZeneca2026-11-12
+DE,AstraZeneca,2026-11-12,N/A,AstraZeneca2026-11-12
 IN,"Matthew Warren, LLC",2026-11-12,99,"Matthew Warren, LLC2026-11-12"
 NY,"ThreeC Logistics, LLC.",2026-11-11,78,"ThreeC Logistics, LLC.2026-11-11"
 CA,"TJX Companies, Inc. dba T.J.Maxx",2026-11-10,62,"TJX Companies, Inc. dba T.J.Maxx2026-11-10"
 CA,"TJX Companies, Inc. dba T.J. Maxx",2026-11-10,77,"TJX Companies, Inc. dba T.J. Maxx2026-11-10"
-KS,General Motors,2026-11-10,506,General Motors2026-11-10
+KS,General Motors,2026-11-10,N/A,General Motors2026-11-10
 CA,"Weil, Gotshal & Manges LLP",2026-11-10,78,"Weil, Gotshal & Manges LLP2026-11-10"
 CA,"Weil, Gotshal & Manges LLP",2026-11-10,7,"Weil, Gotshal & Manges LLP2026-11-10"
 CA,"Weil, Gotshal & Manges LLP",2026-11-10,22,"Weil, Gotshal & Manges LLP2026-11-10"
@@ -321,7 +321,7 @@ OR,Bend - Site,2026-10-20,N/A,Bend - Site2026-10-20
 OR,Hood River - Site,2026-10-20,N/A,Hood River - Site2026-10-20
 TN,Pepsi Bottling Group,2026-10-20,N/A,Pepsi Bottling Group2026-10-20
 AL,The Andersons  Inc.,2026-10-20,64,The Andersons  Inc.2026-10-20
-VT,Vermont Information Processing,2026-10-20,66,Vermont Information Processing2026-10-20
+VT,Vermont Information Processing,2026-10-20,N/A,Vermont Information Processing2026-10-20
 TN,Akzo Nobel,2026-10-20,N/A,Akzo Nobel2026-10-20
 TN,General Jackson Showboat,2026-10-20,N/A,General Jackson Showboat2026-10-20
 CA,"Safeway, Inc.",2026-10-20,92,"Safeway, Inc.2026-10-20"
@@ -356,7 +356,7 @@ IA,Milestone Technologies ,2026-10-13,N/A,Milestone Technologies 2026-10-13
 IA,Milestone Technologies ,2026-10-13,N/A,Milestone Technologies 2026-10-13
 CA,Tree Service Unlimited Inc.,2026-10-13,137,Tree Service Unlimited Inc.2026-10-13
 CA,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",2026-10-12,7,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.2026-10-12"
-ME,Applegreen,2026-10-12,23,Applegreen2026-10-12
+ME,Applegreen,2026-10-12,N/A,Applegreen2026-10-12
 CA,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",2026-10-12,1,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.2026-10-12"
 IA,Cambridge Investment Research ,2026-10-12,N/A,Cambridge Investment Research 2026-10-12
 NJ,The Cannabist Company,2026-10-11,86,The Cannabist Company2026-10-11
@@ -377,7 +377,7 @@ VA,The Washington Post,2026-10-07,118,The Washington Post2026-10-07
 WA,Starbucks,2026-10-07,N/A,Starbucks2026-10-07
 CA,"Caribou Biosciences, Inc.",2026-10-06,87,"Caribou Biosciences, Inc.2026-10-06"
 NJ,Digital Room LLC,2026-10-06,69,Digital Room LLC2026-10-06
-DE,Fortrex,2026-10-06,N/A,Fortrex2026-10-06
+DE,Fortrex,2026-10-06,145,Fortrex2026-10-06
 CA,"Beachbody, LLC",2026-10-06,80,"Beachbody, LLC2026-10-06"
 OR,Medford Delivery Facility,2026-10-06,N/A,Medford Delivery Facility2026-10-06
 CA,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.",2026-10-05,1,"Kaiser Foundation Hospitals and Kaiser Foundation Health Plan, Inc.2026-10-05"
@@ -580,7 +580,7 @@ CA,University of Southern California (854 Downey Way),2026-09-09,1,University of
 CA,University of Southern California (3649 McClintock Ave.),2026-09-09,21,University of Southern California (3649 McClintock Ave.)2026-09-09
 CA,University of Southern California (12015 E Waterfront Dr.),2026-09-09,8,University of Southern California (12015 E Waterfront Dr.)2026-09-09
 CA,University of Southern California (1150 S. Olive Street),2026-09-09,5,University of Southern California (1150 S. Olive Street)2026-09-09
-ME,Count & Crush LLC,2026-09-09,54,Count & Crush LLC2026-09-09
+ME,Count & Crush LLC,2026-09-09,N/A,Count & Crush LLC2026-09-09
 CA,Sapporo U.S.A. (2005 Harmony Grove Rd),2026-09-09,6,Sapporo U.S.A. (2005 Harmony Grove Rd)2026-09-09
 CA,University of Southern California (941 Bloom Walk),2026-09-09,4,University of Southern California (941 Bloom Walk)2026-09-09
 CA,University of Southern California (1149 S. Hill Street),2026-09-09,1,University of Southern California (1149 S. Hill Street)2026-09-09
@@ -810,7 +810,7 @@ CA,ZOLL Medical Corporation,2026-08-11,78,ZOLL Medical Corporation2026-08-11
 NY,"OceanFirst Bank, N.A.",2026-08-10,174,"OceanFirst Bank, N.A.2026-08-10"
 OR,JeniusBank,2026-08-10,N/A,JeniusBank2026-08-10
 OR,Oregon - Remote Employees,2026-08-10,N/A,Oregon - Remote Employees2026-08-10
-DE,JeniusBank,2026-08-10,N/A,JeniusBank2026-08-10
+DE,JeniusBank,2026-08-10,106,JeniusBank2026-08-10
 SD,JeniusBank (digital unit of SMBC Manubank),2026-08-10,2,JeniusBank (digital unit of SMBC Manubank)2026-08-10
 VA,Eurofins Professional Scientific Services LLC,2026-08-10,68,Eurofins Professional Scientific Services LLC2026-08-10
 MO,Unknown,2026-08-10,119,Unknown2026-08-10
@@ -1052,7 +1052,7 @@ WA,PetVet Care Centers,2026-06-29,N/A,PetVet Care Centers2026-06-29
 WA,"Conduent Commercial Solutions, LLC",2026-06-29,N/A,"Conduent Commercial Solutions, LLC2026-06-29"
 DE,Conduent,2026-06-29,1,Conduent2026-06-29
 CA,Ballast Point Brewing Company,2026-06-29,19,Ballast Point Brewing Company2026-06-29
-AZ,"Conduent Commercial Solutions, LLC",2026-06-29,N/A,"Conduent Commercial Solutions, LLC2026-06-29"
+AZ,"Conduent Commercial Solutions, LLC",2026-06-29,3,"Conduent Commercial Solutions, LLC2026-06-29"
 NJ,"Citibank, N.A.",2026-06-28,68,"Citibank, N.A.2026-06-28"
 SC,Univar Solutions USA LLC,2026-06-28,99,Univar Solutions USA LLC2026-06-28
 CA,International Paper Company,2026-06-26,130,International Paper Company2026-06-26
@@ -1368,7 +1368,7 @@ MO,Unknown,2026-06-05,107,Unknown2026-06-05
 VA,Parkhurst Dining LLC (Randolph Macon College Site),2026-06-05,80,Parkhurst Dining LLC (Randolph Macon College Site)2026-06-05
 IA,Whirlpool Corporation,2026-06-04,N/A,Whirlpool Corporation2026-06-04
 WA,SMBC Manubank,2026-06-04,N/A,SMBC Manubank2026-06-04
-AZ,SMBC MANUBANK,2026-06-04,12,SMBC MANUBANK2026-06-04
+AZ,SMBC MANUBANK,2026-06-04,N/A,SMBC MANUBANK2026-06-04
 VA,SMBC Manubank,2026-06-04,6,SMBC Manubank2026-06-04
 CA,"St. Vincent de Paul Society of Lane County, Inc.",2026-06-03,8,"St. Vincent de Paul Society of Lane County, Inc.2026-06-03"
 CA,"Quizlet, Inc.",2026-06-03,79,"Quizlet, Inc.2026-06-03"
@@ -1400,7 +1400,7 @@ CA,"Off Duty Officers, Inc. (123 35th St.)",2026-06-02,2,"Off Duty Officers, Inc
 CA,"Off Duty Officers, Inc. (3333 National Ave.)",2026-06-02,2,"Off Duty Officers, Inc. (3333 National Ave.)2026-06-02"
 CA,"Off Duty Officers, Inc. (1250 Delevan Dr.)",2026-06-02,5,"Off Duty Officers, Inc. (1250 Delevan Dr.)2026-06-02"
 CA,"Off Duty Officers, Inc. (8 Crestwood Rd.)",2026-06-02,1,"Off Duty Officers, Inc. (8 Crestwood Rd.)2026-06-02"
-ME,SP+ Parking,2026-06-02,100,SP+ Parking2026-06-02
+ME,SP+ Parking,2026-06-02,N/A,SP+ Parking2026-06-02
 CA,"Off Duty Officers, Inc. (1081-1139 South Mission Rd.)",2026-06-02,2,"Off Duty Officers, Inc. (1081-1139 South Mission Rd.)2026-06-02"
 CA,"Off Duty Officers, Inc. (262 North El Camino Real)",2026-06-02,3,"Off Duty Officers, Inc. (262 North El Camino Real)2026-06-02"
 CA,"Off Duty Officers, Inc. (4058 Willows Rd.)",2026-06-02,1,"Off Duty Officers, Inc. (4058 Willows Rd.)2026-06-02"
@@ -1468,13 +1468,13 @@ CA,Acumen LLC & The SPHERE,2026-05-28,11,Acumen LLC & The SPHERE2026-05-28
 NY,"IPIC Theaters, LLC.",2026-05-28,58,"IPIC Theaters, LLC.2026-05-28"
 NJ,IPIC Theaters,2026-05-28,97,IPIC Theaters2026-05-28
 CA,Acumen LLC & The SPHERE,2026-05-28,58,Acumen LLC & The SPHERE2026-05-28
-VT,Franklin Foods,2026-05-28,99,Franklin Foods2026-05-28
+VT,Franklin Foods,2026-05-28,N/A,Franklin Foods2026-05-28
 OR,PacificSource - Salem,2026-05-27,N/A,PacificSource - Salem2026-05-27
 OR,PacificSource Hood River,2026-05-27,N/A,PacificSource Hood River2026-05-27
 OR,PacificSource - Portland,2026-05-27,N/A,PacificSource - Portland2026-05-27
 PA,Lineage Logistics,2026-05-27,208,Lineage Logistics2026-05-27
 OR,PacificSource - Bend,2026-05-27,N/A,PacificSource - Bend2026-05-27
-AZ,Honeywell AZ0Y,2026-05-27,60,Honeywell AZ0Y2026-05-27
+AZ,Honeywell AZ0Y,2026-05-27,N/A,Honeywell AZ0Y2026-05-27
 CA,"Trifecta JLS, Inc./Plank",2026-05-27,70,"Trifecta JLS, Inc./Plank2026-05-27"
 NY,Morgan Stanley,2026-05-27,1,Morgan Stanley2026-05-27
 NY,Morgan Stanley,2026-05-27,61,Morgan Stanley2026-05-27
@@ -2221,7 +2221,7 @@ OR,Sunstone Way,2026-03-27,N/A,Sunstone Way2026-03-27
 CA,Crittenton (100 E. Valley View),2026-03-27,81,Crittenton (100 E. Valley View)2026-03-27
 UT,"ProFrac Services, LLC",2026-03-27,157,"ProFrac Services, LLC2026-03-27"
 CA,Rb Wine Associates LLC dba Rack & Riddle,2026-03-27,32,Rb Wine Associates LLC dba Rack & Riddle2026-03-27
-KS,Ashley Clinic/Southeast Kansas Mental Health Center,2026-03-27,N/A,Ashley Clinic/Southeast Kansas Mental Health Center2026-03-27
+KS,Ashley Clinic/Southeast Kansas Mental Health Center,2026-03-27,116,Ashley Clinic/Southeast Kansas Mental Health Center2026-03-27
 WA,Starbucks,2026-03-27,N/A,Starbucks2026-03-27
 FL,"HCL America, Inc 
 9002 San Marco Court
@@ -3079,7 +3079,7 @@ CA,Medical Device Components LLC dba Lighteum Medical,2026-01-30,83,Medical Devi
 OK,Bright Horizons,2026-01-30,N/A,Bright Horizons2026-01-30
 CA,"Mercury Systems, Inc.",2026-01-30,18,"Mercury Systems, Inc.2026-01-30"
 CA,V2X - NASA Armstrong Flight Research Center MS 1714,2026-01-30,62,V2X - NASA Armstrong Flight Research Center MS 17142026-01-30
-KS,"Vornado Air, LLC.",2026-01-30,N/A,"Vornado Air, LLC.2026-01-30"
+KS,"Vornado Air, LLC.",2026-01-30,72,"Vornado Air, LLC.2026-01-30"
 TN,DLH Solutions,2026-01-30,N/A,DLH Solutions2026-01-30
 TN,Danfoss Power Solutions,2026-01-30,N/A,Danfoss Power Solutions2026-01-30
 IN,National Distribution Centers,2026-01-30,53,National Distribution Centers2026-01-30
@@ -3177,10 +3177,10 @@ CA,JBT Marel Corporation,2026-01-27,59,JBT Marel Corporation2026-01-27
 CA,"Western Digital Technologies, Inc.",2026-01-27,47,"Western Digital Technologies, Inc.2026-01-27"
 CA,"Schultz Industrial Services, Inc.",2026-01-27,66,"Schultz Industrial Services, Inc.2026-01-27"
 CA,"Catholic Charities, Diocese of San Diego - MG Suite A",2026-01-27,7,"Catholic Charities, Diocese of San Diego - MG Suite A2026-01-27"
-AZ,Benchmark,2026-01-27,N/A,Benchmark2026-01-27
+AZ,Benchmark,2026-01-27,65,Benchmark2026-01-27
 TN,"NIKE Retail Services, Inc.",2026-01-27,N/A,"NIKE Retail Services, Inc.2026-01-27"
 CA,"Catholic Charities, Diocese of San Diego - MG Suite B",2026-01-27,11,"Catholic Charities, Diocese of San Diego - MG Suite B2026-01-27"
-ME,Gathr Outdoors dba Pride Manufacturing Co LLC,2026-01-27,6,Gathr Outdoors dba Pride Manufacturing Co LLC2026-01-27
+ME,Gathr Outdoors dba Pride Manufacturing Co LLC,2026-01-27,N/A,Gathr Outdoors dba Pride Manufacturing Co LLC2026-01-27
 FL,"Naples Grande Beach Resort 
 475 Seagate Drive
 
